@@ -1,3 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="Cignal",BBC Lifestyle
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",GO Central
+https://183.bozztv.com/giatv/giatv-gocentraltv23ph/gocentraltv23ph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",GO Toonimé
+https://183.bozztv.com/giatv/giatv-shonencommunityph/shonencommunityph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsCartoonMovies
+https://live20.bozztv.com/giatvplayout7/giatv-211507/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",STAR TV PHILIPPINES
+https://live20.bozztv.com/giatvplayout7/giatv-208168/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsSineAksyon
+https://live20.bozztv.com/giatvplayout7/giatv-212176/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsSinePinoy
+https://live20.bozztv.com/giatvplayout7/giatv-210267/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsCartoonMovies
+https://live20.bozztv.com/giatvplayout7/giatv-211507/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",Durian TV
+https://live20.bozztv.com/giatvplayout7/giatv-211768/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",ASIA FLIX TV
+https://live20.bozztv.com/giatvplayout7/giatv-209574/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",South Star TV
+https://live20.bozztv.com/giatvplayout7/giatv-211869/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",EPIC ONE TV
+https://live20.bozztv.com/giatvplayout7/giatv-212059/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",HypeTV
+https://live20.bozztv.com/giatvplayout7/giatv-211468/tracks-v1a1/mono.ts.m3u8
+
+
