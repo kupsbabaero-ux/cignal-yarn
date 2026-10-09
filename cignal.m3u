@@ -9,8 +9,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_ncaa" tvg-name="NCAA Philippines HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/NCAA_Philippines_logo_%282025%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Sports",NCAA Philippines HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"51d48e70072d180872da1807d3ecad18","kid":"154f2a917c364e58b10963a7f2c8d451"}]}
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd?hdnts=st=1789047885~exp=1789048005~acl=/bpk-tv/cg_ncaa/default/*~id=IT6OdRzqpaP6053diFH2t-pZVnIWiasjIZ-hbl27lBoMEHc~hmac=85ec19765a45b5f761ab23cf6d0a808e6cd82e174b3f0088f9c9279e6279c787
+#KODIPROP:inputstream.adaptive.license_key=d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_hbofam" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
