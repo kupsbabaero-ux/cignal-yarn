@@ -7,6 +7,16 @@ EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 #KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
 
+#EXTINF:-1 tvg-id="cg_hbosign" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1980" group-title="Cignal",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_hbohits" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=1980" group-title="Cignal",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
+
 #EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="Cignal",Bilyonaryoch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
