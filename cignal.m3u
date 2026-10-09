@@ -7,10 +7,20 @@ EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 #KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ncaa" tvg-name="NCAA Philippines HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/NCAA_Philippines_logo_%282025%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Sports",NCAA Philippines HD
+#EXTINF:-1 tvg-id="cg_ncaa" tvg-name="NCAA Philippines HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Ncaanxt.png/revision/latest/scale-to-width-down/250?cb=20260911022156" group-title="Sports",NCAA NXT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_spotv2" tvg-name="SPOTV 2 HD" group-title="Sports",SPOTV 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_asiangames2" tvg-name="Asian Games 2" group-title="Sports",Asian Games 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5a8f3917d424e809b166f3c2a7d9045:6a7f2a17bad0a84674108234403d5fa0
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_hbofam" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
