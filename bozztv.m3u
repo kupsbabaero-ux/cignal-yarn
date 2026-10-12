@@ -2,11 +2,14 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",GO Central
 https://183.bozztv.com/giatv/giatv-gocentraltv23ph/gocentraltv23ph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",GO Toonimé
+#EXTINF:-1 tvg-id="" tvg-logo="https://msntvphl.weebly.com/uploads/5/3/1/6/5316669/gotoonime2026-msn-new-logo_orig.png" group-title="bozztv",GO Toonimé
 https://183.bozztv.com/giatv/giatv-shonencommunityph/shonencommunityph/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/211507.png?1791812845" group-title="bozztv",3rsCartoonMovies
 https://live20.bozztv.com/giatvplayout7/giatv-211507/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: 3rsTv" tvg-logo="https://i.imghippo.com/files/KyJ4632uQ.png",3rsTv
+http://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/208168.jpg?1791812826" group-title="bozztv",STAR TV PHILIPPINES
 https://live20.bozztv.com/giatvplayout7/giatv-208168/tracks-v1a1/mono.ts.m3u8
@@ -34,5 +37,18 @@ https://live20.bozztv.com/giatvplayout7/giatv-208591/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/211468.png?1791812997" group-title="bozztv",HypeTV
 https://live20.bozztv.com/giatvplayout7/giatv-211468/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/sinemanila_231.png" group-title="bozztv",Sinemanila
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Star Television" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/054/019/906/small/question-mark-with-shadow-effect-png.png",Star Television
+https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/sinemanila_231.png" group-title="bozztv",STBS Global
+https://live20.bozztv.com/giatvplayout7/giatv-208591/tracks-v1a1/mono.ts.m3u8
+
+
+
+
 
 
