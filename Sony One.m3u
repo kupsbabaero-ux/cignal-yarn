@@ -24,3 +24,10 @@ https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=A948CCE6CB93C4B9D648C9ADA274D246:783e9e314d375f27cade69595fb94bca
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony Movies Channel
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.prismic.io/cinesony/abSIflxvIZEnjq5C_2400px_SonyCine_HeroLogo_RGB_0004_Large_Color.png?auto=format%2Ccompress&q=85" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
