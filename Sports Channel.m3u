@@ -30,4 +30,12 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK: DAZN 5" tvg-logo="https://logo.m3uassets.com/dazn5.png" group-title="WRLD | Sports",DAZN 5
 http://23.237.104.106:8080/DAZN_5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="WRLD | Sports",Sport Tv1
+http://195.178.110.110/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="WRLD | Sports",Sport Tv2
+http://195.178.110.110/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="WRLD | Sports",Sport Tv3
+http://195.178.110.110/sportv3/index.m3u8
 
