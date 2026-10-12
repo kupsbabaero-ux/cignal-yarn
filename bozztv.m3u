@@ -5,34 +5,34 @@ https://183.bozztv.com/giatv/giatv-gocentraltv23ph/gocentraltv23ph/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",GO Toonimé
 https://183.bozztv.com/giatv/giatv-shonencommunityph/shonencommunityph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsCartoonMovies
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/211507.png?1791812845" group-title="bozztv",3rsCartoonMovies
 https://live20.bozztv.com/giatvplayout7/giatv-211507/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",STAR TV PHILIPPINES
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/208168.jpg?1791812826" group-title="bozztv",STAR TV PHILIPPINES
 https://live20.bozztv.com/giatvplayout7/giatv-208168/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsSineAksyon
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/212176.jpg?1791812553" group-title="bozztv",3rsSineAksyon
 https://live20.bozztv.com/giatvplayout7/giatv-212176/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsSinePinoy
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/210267.png?1791812578" group-title="bozztv",3rsSinePinoy
 https://live20.bozztv.com/giatvplayout7/giatv-210267/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",3rsCartoonMovies
-https://live20.bozztv.com/giatvplayout7/giatv-211507/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",Durian TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/211768.png?1791812862" group-title="bozztv",Durian TV
 https://live20.bozztv.com/giatvplayout7/giatv-211768/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",ASIA FLIX TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/209574.jpeg?1791812949" group-title="bozztv",ASIA FLIX TV
 https://live20.bozztv.com/giatvplayout7/giatv-209574/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",South Star TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/211869.png?1791812958" group-title="bozztv",South Star TV
 https://live20.bozztv.com/giatvplayout7/giatv-211869/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",EPIC ONE TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/212059.png?1791812954" group-title="bozztv",EPIC ONE TV
 https://live20.bozztv.com/giatvplayout7/giatv-212059/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",HypeTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="bozztv",Sine Plus
+https://live20.bozztv.com/giatvplayout7/giatv-208591/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/211468.png?1791812997" group-title="bozztv",HypeTV
 https://live20.bozztv.com/giatvplayout7/giatv-211468/tracks-v1a1/mono.ts.m3u8
 
 
