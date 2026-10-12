@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/4299201/" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Comedy Hits
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Hm_rbVMykc/maxresdefault.jpg" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Comedy Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5894EBA80A8AEE9FAB4A925183185D99:fe50655307fbdc2c4989c195423ccecf
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/4299200/" group-title="Sony One", Sony One Faves
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Sonyonehorizontal.jpg/revision/latest/scale-to-width-down/1200?cb=20240808205903" group-title="Sony One", Sony One Faves
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1B43E3D441B36356BB900D93AC88301B:7cca6e6854c136297e848e9381565b7a
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/4299196/" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Action Hits
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU4600002WX_20260812T041130SQUARE.png&h=250" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Action Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/4299198/" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Comedy TV
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300005ZR_20260421T123818SQUARE.png&h=250" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Comedy TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=E1CE486C2BD4A4F6C6007A0A7B454EFA:ae46c390767c07d69c65a45d45a75c11
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/4299199/" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Thriller TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/R_P0_UIGSsQ/maxresdefault.jpg" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony One Thriller TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=A948CCE6CB93C4B9D648C9ADA274D246:783e9e314d375f27cade69595fb94bca
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
