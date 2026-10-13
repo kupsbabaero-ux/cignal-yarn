@@ -34,3 +34,5 @@ https://p4kp.rjmbts.workers.dev/22124.m3u8
 #EXTINF:-1 tvg-logo="https://images.prismic.io/cinesony/abSIflxvIZEnjq5C_2400px_SonyCine_HeroLogo_RGB_0004_Large_Color.png?auto=format%2Ccompress&q=85" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220", Sony Max HD
+http://103.185.24.134:3001/SonyMAX/index.m3u8
