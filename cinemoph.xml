@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom CineMo EPG (PST)" generator-info-url="https://github.com">
+  <!-- Channel Info -->
+  <channel id="cinemo.ph">
+    <display-name lang="en">CineMo</display-name>
+  </channel>
+
+  <!-- MONDAY (Lunes) -->
+  <programme start="20261012000000 +0800" stop="20261012010000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekwela</title>
+    <desc lang="tl">12:00 AM - 1:00 AM</desc>
+  </programme>
+  <programme start="20261012010000 +0800" stop="20261012030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261012030000 +0800" stop="20261012040000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">3:00 AM - 4:00 AM</desc>
+  </programme>
+  <programme start="20261012040000 +0800" stop="20261012060000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">4:00 AM - 6:00 AM</desc>
+  </programme>
+  <programme start="20261012060000 +0800" stop="20261012080000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetakilya</title>
+    <desc lang="tl">6:00 AM - 8:00 AM</desc>
+  </programme>
+  <programme start="20261012080000 +0800" stop="20261012100000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="tl">8:00 AM - 10:00 AM</desc>
+  </programme>
+  <programme start="20261012100000 +0800" stop="20261012120000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">10:00 AM - 12:00 PM</desc>
+  </programme>
+  <programme start="20261012120000 +0800" stop="20261012140000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineastig</title>
+    <desc lang="tl">12:00 PM - 2:00 PM</desc>
+  </programme>
+  <programme start="20261012140000 +0800" stop="20261012160000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekamao</title>
+    <desc lang="tl">2:00 PM - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012160000 +0800" stop="20261012180000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetawanan</title>
+    <desc lang="tl">4:00 PM - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012180000 +0800" stop="20261012200000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinebarako</title>
+    <desc lang="tl">6:00 PM - 8:00 PM</desc>
+  </programme>
+  <programme start="20261012200000 +0800" stop="20261012210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">8:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261012210000 +0800" stop="20261012230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineaksyon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261012230000 +0800" stop="20261013010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+
+  <!-- TUESDAY (Martes) -->
+  <programme start="20261013010000 +0800" stop="20261013030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261013030000 +0800" stop="20261013040000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">3:00 AM - 4:00 AM</desc>
+  </programme>
+  <programme start="20261013040000 +0800" stop="20261013060000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">4:00 AM - 6:00 AM</desc>
+  </programme>
+  <programme start="20261013060000 +0800" stop="20261013080000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetakilya</title>
+    <desc lang="tl">6:00 AM - 8:00 AM</desc>
+  </programme>
+  <programme start="20261013080000 +0800" stop="20261013100000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="tl">8:00 AM - 10:00 AM</desc>
+  </programme>
+  <programme start="20261013100000 +0800" stop="20261013120000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">10:00 AM - 12:00 PM</desc>
+  </programme>
+  <programme start="20261013120000 +0800" stop="20261013140000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineastig</title>
+    <desc lang="tl">12:00 PM - 2:00 PM</desc>
+  </programme>
+  <programme start="20261013140000 +0800" stop="20261013160000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekamao</title>
+    <desc lang="tl">2:00 PM - 4:00 PM</desc>
+  </programme>
+  <programme start="20261013160000 +0800" stop="20261013180000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetawanan</title>
+    <desc lang="tl">4:00 PM - 6:00 PM</desc>
+  </programme>
+  <programme start="20261013180000 +0800" stop="20261013200000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinebarako</title>
+    <desc lang="tl">6:00 PM - 8:00 PM</desc>
+  </programme>
+  <programme start="20261013200000 +0800" stop="20261013210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">8:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261013210000 +0800" stop="20261013230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineaksyon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261013230000 +0800" stop="20261014010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+
+  <!-- WEDNESDAY (Miyerkules) -->
+  <programme start="20261014010000 +0800" stop="20261014030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261014030000 +0800" stop="20261014040000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">3:00 AM - 4:00 AM</desc>
+  </programme>
+  <programme start="20261014040000 +0800" stop="20261014060000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">4:00 AM - 6:00 AM</desc>
+  </programme>
+  <programme start="20261014060000 +0800" stop="20261014080000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetakilya</title>
+    <desc lang="tl">6:00 AM - 8:00 AM</desc>
+  </programme>
+  <programme start="20261014080000 +0800" stop="20261014100000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="tl">8:00 AM - 10:00 AM</desc>
+  </programme>
+  <programme start="20261014100000 +0800" stop="20261014120000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">10:00 AM - 12:00 PM</desc>
+  </programme>
+  <programme start="20261014120000 +0800" stop="20261014140000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineastig</title>
+    <desc lang="tl">12:00 PM - 2:00 PM</desc>
+  </programme>
+  <programme start="20261014140000 +0800" stop="20261014160000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekamao</title>
+    <desc lang="tl">2:00 PM - 4:00 PM</desc>
+  </programme>
+  <programme start="20261014160000 +0800" stop="20261014180000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetawanan</title>
+    <desc lang="tl">4:00 PM - 6:00 PM</desc>
+  </programme>
+  <programme start="20261014180000 +0800" stop="20261014200000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinebarako</title>
+    <desc lang="tl">6:00 PM - 8:00 PM</desc>
+  </programme>
+  <programme start="20261014200000 +0800" stop="20261014210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">8:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261014210000 +0800" stop="20261014230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineaksyon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261014230000 +0800" stop="20261015010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+
+  <!-- THURSDAY (Huwebes) -->
+  <programme start="20261015010000 +0800" stop="20261015030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261015030000 +0800" stop="20261015040000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">3:00 AM - 4:00 AM</desc>
+  </programme>
+  <programme start="20261015040000 +0800" stop="20261015060000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">4:00 AM - 6:00 AM</desc>
+  </programme>
+  <programme start="20261015060000 +0800" stop="20261015080000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetakilya</title>
+    <desc lang="tl">6:00 AM - 8:00 AM</desc>
+  </programme>
+  <programme start="20261015080000 +0800" stop="20261015100000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="tl">8:00 AM - 10:00 AM</desc>
+  </programme>
+  <programme start="20261015100000 +0800" stop="20261015120000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">10:00 AM - 12:00 PM</desc>
+  </programme>
+  <programme start="20261015120000 +0800" stop="20261015140000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineastig</title>
+    <desc lang="tl">12:00 PM - 2:00 PM</desc>
+  </programme>
+  <programme start="20261015140000 +0800" stop="20261015160000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekamao</title>
+    <desc lang="tl">2:00 PM - 4:00 PM</desc>
+  </programme>
+  <programme start="20261015160000 +0800" stop="20261015180000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetawanan</title>
+    <desc lang="tl">4:00 PM - 6:00 PM</desc>
+  </programme>
+  <programme start="20261015180000 +0800" stop="20261015200000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinebarako</title>
+    <desc lang="tl">6:00 PM - 8:00 PM</desc>
+  </programme>
+  <programme start="20261015200000 +0800" stop="20261015210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">8:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261015210000 +0800" stop="20261015230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineaksyon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261015230000 +0800" stop="20261016010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+
+  <!-- FRIDAY (Biyernes) -->
+  <programme start="20261016010000 +0800" stop="20261016030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261016030000 +0800" stop="20261016040000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">3:00 AM - 4:00 AM</desc>
+  </programme>
+  <programme start="20261016040000 +0800" stop="20261016060000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">4:00 AM - 6:00 AM</desc>
+  </programme>
+  <programme start="20261016060000 +0800" stop="20261016080000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetakilya</title>
+    <desc lang="tl">6:00 AM - 8:00 AM</desc>
+  </programme>
+  <programme start="20261016080000 +0800" stop="20261016100000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="tl">8:00 AM - 10:00 AM</desc>
+  </programme>
+  <programme start="20261016100000 +0800" stop="20261016120000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">10:00 AM - 12:00 PM</desc>
+  </programme>
+  <programme start="20261016120000 +0800" stop="20261016140000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineastig</title>
+    <desc lang="tl">12:00 PM - 2:00 PM</desc>
+  </programme>
+  <programme start="20261016140000 +0800" stop="20261016160000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekamao</title>
+    <desc lang="tl">2:00 PM - 4:00 PM</desc>
+  </programme>
+  <programme start="20261016160000 +0800" stop="20261016180000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinetawanan</title>
+    <desc lang="tl">4:00 PM - 6:00 PM</desc>
+  </programme>
+  <programme start="20261016180000 +0800" stop="20261016200000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinebarako</title>
+    <desc lang="tl">6:00 PM - 8:00 PM</desc>
+  </programme>
+  <programme start="20261016200000 +0800" stop="20261016210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineserye</title>
+    <desc lang="tl">8:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261016210000 +0800" stop="20261016230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineaksyon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261016230000 +0800" stop="20261017010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+
+  <!-- SATURDAY (Sabado) -->
+  <programme start="20261017010000 +0800" stop="20261017030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261017030000 +0800" stop="20261017050000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">3:00 AM - 5:00 AM</desc>
+  </programme>
+  <programme start="20261017050000 +0800" stop="20261017070000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineuna</title>
+    <desc lang="tl">5:00 AM - 7:00 AM</desc>
+  </programme>
+  <programme start="20261017070000 +0800" stop="20261017090000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesigaw</title>
+    <desc lang="tl">7:00 AM - 9:00 AM</desc>
+  </programme>
+  <programme start="20261017090000 +0800" stop="20261017110000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekilig</title>
+    <desc lang="tl">9:00 AM - 11:00 AM</desc>
+  </programme>
+  <programme start="20261017110000 +0800" stop="20261017130000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">11:00 AM - 1:00 PM</desc>
+  </programme>
+  <programme start="20261017130000 +0800" stop="20261017150000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinematapang</title>
+    <desc lang="tl">1:00 PM - 3:00 PM</desc>
+  </programme>
+  <programme start="20261017150000 +0800" stop="20261017170000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesiga</title>
+    <desc lang="tl">3:00 PM - 5:00 PM</desc>
+  </programme>
+  <programme start="20261017170000 +0800" stop="20261017190000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sabado Sine</title>
+    <desc lang="tl">5:00 PM - 7:00 PM</desc>
+  </programme>
+  <programme start="20261017190000 +0800" stop="20261017210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Dolphy Hari Ng Comedy</title>
+    <desc lang="tl">7:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261017210000 +0800" stop="20261017230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinematon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261017230000 +0800" stop="20261018010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+
+  <!-- SUNDAY (Linggo) -->
+  <programme start="20261018010000 +0800" stop="20261018030000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">1:00 AM - 3:00 AM</desc>
+  </programme>
+  <programme start="20261018030000 +0800" stop="20261018050000 +0800" channel="cinemo.ph">
+    <title lang="tl">Super Sine</title>
+    <desc lang="tl">3:00 AM - 5:00 AM</desc>
+  </programme>
+  <programme start="20261018050000 +0800" stop="20261018070000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cineuna</title>
+    <desc lang="tl">5:00 AM - 7:00 AM</desc>
+  </programme>
+  <programme start="20261018070000 +0800" stop="20261018090000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesigaw</title>
+    <desc lang="tl">7:00 AM - 9:00 AM</desc>
+  </programme>
+  <programme start="20261018090000 +0800" stop="20261018110000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinekilig</title>
+    <desc lang="tl">9:00 AM - 11:00 AM</desc>
+  </programme>
+  <programme start="20261018110000 +0800" stop="20261018130000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesaya</title>
+    <desc lang="tl">11:00 AM - 1:00 PM</desc>
+  </programme>
+  <programme start="20261018130000 +0800" stop="20261018150000 +0800" channel="cinemo.ph">
+    <title lang="tl">Alamat Ni Agimat</title>
+    <desc lang="tl">1:00 PM - 3:00 PM</desc>
+  </programme>
+  <programme start="20261018150000 +0800" stop="20261018170000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinesiga</title>
+    <desc lang="tl">3:00 PM - 5:00 PM</desc>
+  </programme>
+  <programme start="20261018170000 +0800" stop="20261018190000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinemo Box Office</title>
+    <desc lang="tl">5:00 PM - 7:00 PM</desc>
+  </programme>
+  <programme start="20261018190000 +0800" stop="20261018210000 +0800" channel="cinemo.ph">
+    <title lang="tl">Markang Daboy</title>
+    <desc lang="tl">7:00 PM - 9:00 PM</desc>
+  </programme>
+  <programme start="20261018210000 +0800" stop="20261018230000 +0800" channel="cinemo.ph">
+    <title lang="tl">Cinematon</title>
+    <desc lang="tl">9:00 PM - 11:00 PM</desc>
+  </programme>
+  <programme start="20261018230000 +0800" stop="20261019010000 +0800" channel="cinemo.ph">
+    <title lang="tl">CineSilip</title>
+    <desc lang="tl">11:00 PM - 1:00 AM</desc>
+  </programme>
+</tv>
