@@ -58,12 +58,16 @@
     <title lang="en">Cineaksyon</title>
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
-  <programme start="20261012230000 +0800" stop="20261013010000 +0800" channel="cinemo.ph">
+  <programme start="20261012230000 +0800" stop="20261013000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
 
   <!-- TUESDAY (Martes) -->
+  <programme start="20261013000000 +0800" stop="20261013010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
+  </programme>
   <programme start="20261013010000 +0800" stop="20261013030000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
@@ -112,12 +116,16 @@
     <title lang="en">Cineaksyon</title>
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
-  <programme start="20261013230000 +0800" stop="20261014010000 +0800" channel="cinemo.ph">
+  <programme start="20261013230000 +0800" stop="20261014000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
 
   <!-- WEDNESDAY (Miyerkules) -->
+  <programme start="20261014000000 +0800" stop="20261014010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
+  </programme>
   <programme start="20261014010000 +0800" stop="20261014030000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
@@ -166,12 +174,16 @@
     <title lang="en">Cineaksyon</title>
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
-  <programme start="20261014230000 +0800" stop="20261015010000 +0800" channel="cinemo.ph">
+  <programme start="20261014230000 +0800" stop="20261015000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
 
   <!-- THURSDAY (Huwebes) -->
+  <programme start="20261015000000 +0800" stop="20261015010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
+  </programme>
   <programme start="20261015010000 +0800" stop="20261015030000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
@@ -220,12 +232,16 @@
     <title lang="en">Cineaksyon</title>
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
-  <programme start="20261015230000 +0800" stop="20261016010000 +0800" channel="cinemo.ph">
+  <programme start="20261015230000 +0800" stop="20261016000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
 
   <!-- FRIDAY (Biyernes) -->
+  <programme start="20261016000000 +0800" stop="20261016010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
+  </programme>
   <programme start="20261016010000 +0800" stop="20261016030000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
@@ -274,12 +290,16 @@
     <title lang="en">Cineaksyon</title>
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
-  <programme start="20261016230000 +0800" stop="20261017010000 +0800" channel="cinemo.ph">
+  <programme start="20261016230000 +0800" stop="20261017000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
 
   <!-- SATURDAY (Sabado) -->
+  <programme start="20261017000000 +0800" stop="20261017010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
+  </programme>
   <programme start="20261017010000 +0800" stop="20261017030000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
@@ -324,12 +344,16 @@
     <title lang="en">Cinematon</title>
     <desc lang="en">Non-stop movie marathon featuring crowd-favorite Pinoy films on Saturday night.</desc>
   </programme>
-  <programme start="20261017230000 +0800" stop="20261018010000 +0800" channel="cinemo.ph">
+  <programme start="20261017230000 +0800" stop="20261018000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
 
   <!-- SUNDAY (Linggo) -->
+  <programme start="20261018000000 +0800" stop="20261018010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
+  </programme>
   <programme start="20261018010000 +0800" stop="20261018030000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
@@ -374,7 +398,7 @@
     <title lang="en">Cinematon</title>
     <desc lang="en">Weekend finale movie marathon to relax and recharge before Monday comes.</desc>
   </programme>
-  <programme start="20261018230000 +0800" stop="20261019010000 +0800" channel="cinemo.ph">
+  <programme start="20261018230000 +0800" stop="20261019000000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <desc lang="en">Late-night movie previews and classic film highlights past midnight.</desc>
   </programme>
