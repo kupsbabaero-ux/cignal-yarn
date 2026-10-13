@@ -28,7 +28,7 @@ https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony Movies Channel
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="" group-title="Movies",SONY PIX HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Sony_Pix_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Movies",SONY PIX HD
 https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.prismic.io/cinesony/abSIflxvIZEnjq5C_2400px_SonyCine_HeroLogo_RGB_0004_Large_Color.png?auto=format%2Ccompress&q=85" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="Sony One", Sony Cine
