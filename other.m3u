@@ -92,3 +92,27 @@ http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ArayKo.ph" tvg-name="Aray Ko" tvg-logo="https://images.squarespace-cdn.com/content/v1/63a49c652619a84a20769d93/3d3acbcf-5b20-43fc-8b2b-14bde303a697/Aliwko_logo.png",Aliw Ko
 https://1nox1-adobo.hf.space/arayko.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvgsW6dknHklu2l7gQl6lwCHI28-7sND5OGYzFisZtQ&s",ITV 1
+http://176.65.153.4:4004/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvgsW6dknHklu2l7gQl6lwCHI28-7sND5OGYzFisZtQ&s",ITV 2
+http://176.65.153.4:4004/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvgsW6dknHklu2l7gQl6lwCHI28-7sND5OGYzFisZtQ&s",ITV 3
+http://176.65.153.4:4004/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvgsW6dknHklu2l7gQl6lwCHI28-7sND5OGYzFisZtQ&s",ITV 4
+https://lb.iptvnetwork.net/ls28/10308/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BBC_One_%282021%29.svg/revision/latest?cb=20211020052725",BBC 1
+http://176.65.153.4:4001/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/BBC_Two_%282021%29.svg/revision/latest?cb=20211019175921",BBC 2
+http://176.65.153.4:4001/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/BBC_Three_2022.svg/revision/latest/scale-to-width-down/1000?cb=20221008104227",BBC 3
+https://lb.iptvnetwork.net/ls28/10109/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/BBC_Four_%282021%29.svg/revision/latest?cb=20230531112726",BBC 4
+https://lb.iptvnetwork.net/ls28/10110/playlist.m3u8
