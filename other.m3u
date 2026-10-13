@@ -77,3 +77,18 @@ http://200.32.231.178/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/FOX_wordmark-orange_2.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Fox
 http://200.32.231.178/Fox/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg",CBS
+http://200.32.231.178/CBS/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ABC
+http://200.32.231.178/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="StarActionHD.ar" tvg-name="STAR Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",STAR Action HD
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="StarWorldHD.ar" tvg-name="STAR World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7MNRaXe7qTWEX3aGWfX4WfKEINSZsmd0CHOvnmZESg&s",STAR World HD
+http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArayKo.ph" tvg-name="Aray Ko" tvg-logo="https://images.squarespace-cdn.com/content/v1/63a49c652619a84a20769d93/3d3acbcf-5b20-43fc-8b2b-14bde303a697/Aliwko_logo.png",Aliw Ko
+https://1nox1-adobo.hf.space/arayko.m3u8
