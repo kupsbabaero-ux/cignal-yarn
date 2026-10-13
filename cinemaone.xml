@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Custom EPG Generator" generator-info-url="http://localhost">
+
+  <!-- CHANNEL DEFINITION -->
+  <channel id="cinemaone.ph">
+    <display-name lang="en">Cinema One</display-name>
+    <display-name lang="en">CinemaOne</display-name>
+    <icon src="https://i.imgur.com/vH4v9Z8.png" />
+  </channel>
+
+  <!-- ==================== MONDAY (LUNES) ==================== -->
+  <programme start="20261012060000 +0800" stop="20261012080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Featured romantic comedy and drama film block.</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261012080000 +0800" stop="20261012100000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Action Hours</title>
+    <desc lang="tl">Classic and hit Pinoy action movies block.</desc>
+    <category lang="en">Action Hours</category>
+    <category lang="en">Action</category>
+  </programme>
+
+  <programme start="20261012100000 +0800" stop="20261012120000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Classic Pinoy comedy movie line-up.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261012120000 +0800" stop="20261012140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Iconic and memorable Star Cinema drama and romance classics.</desc>
+    <category lang="en">Star Cinema Classics</category>
+    <category lang="en">Drama</category>
+  </programme>
+
+  <programme start="20261012140000 +0800" stop="20261012160000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Hilarious Pinoy comedy films for afternoon viewing.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261012160000 +0800" stop="20261012180000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Late afternoon romantic comedy movie block.</desc>
+    <category lang="en">RomCom</category>
+    <category lang="en">Romance</category>
+  </programme>
+
+  <programme start="20261012180000 +0800" stop="20261012210000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Early primetime showcase of record-breaking Pinoy hit movies.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261012210000 +0800" stop="20261012230000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Primetime presentation of top-grossing Filipino movies.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261012230000 +0800" stop="20261013010000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Cinema One Originals</title>
+    <desc lang="tl">Late-night feature of critically acclaimed indie productions.</desc>
+    <category lang="en">Cinema One Originals</category>
+    <category lang="en">Indie</category>
+  </programme>
+
+  <!-- ==================== TUESDAY (MARTES) ==================== -->
+  <programme start="20261013060000 +0800" stop="20261013080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Early morning presentation of iconic Filipino classic films.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261013080000 +0800" stop="20261013100000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Action Hours</title>
+    <desc lang="tl">Classic action films starring Pinoy cinema legends.</desc>
+    <category lang="en">Action Hours</category>
+    <category lang="en">Action</category>
+  </programme>
+
+  <programme start="20261013100000 +0800" stop="20261013120000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Mid-morning comedy film segment.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261013120000 +0800" stop="20261013140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Noontime classic drama movies presentation.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261013140000 +0800" stop="20261013160000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Afternoon romantic comedy movie feature.</desc>
+    <category lang="en">RomCom</category>
+  </programme>
+
+  <programme start="20261013160000 +0800" stop="20261013180000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Late afternoon romantic drama and comedy block.</desc>
+    <category lang="en">RomCom</category>
+  </programme>
+
+  <programme start="20261013180000 +0800" stop="20261013210000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Primetime mainstream hit movies block.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261013210000 +0800" stop="20261013230000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Evening blockbuster presentation.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261013230000 +0800" stop="20261014010000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Cinema One Originals</title>
+    <desc lang="tl">Independent film showcase produced by Cinema One.</desc>
+    <category lang="en">Cinema One Originals</category>
+  </programme>
+
+  <!-- ==================== WEDNESDAY (MIYERKOLES) ==================== -->
+  <programme start="20261014060000 +0800" stop="20261014080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Timeless romantic and drama classics from Star Cinema.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261014080000 +0800" stop="20261014100000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Action Hours</title>
+    <desc lang="tl">Morning action-packed Filipino movie block.</desc>
+    <category lang="en">Action Hours</category>
+  </programme>
+
+  <programme start="20261014100000 +0800" stop="20261014120000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Family-friendly Pinoy comedy block.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261014120000 +0800" stop="20261014140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Classic award-winning Pinoy dramas.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261014140000 +0800" stop="20261014160000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Afternoon laughter and comedy hits.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261014160000 +0800" stop="20261014180000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Popular romance and comedy lineup.</desc>
+    <category lang="en">RomCom</category>
+  </programme>
+
+  <programme start="20261014180000 +0800" stop="20261014210000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">All-time favorite blockbuster movies.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261014210000 +0800" stop="20261014230000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Late evening blockbuster movie presentation.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261014230000 +0800" stop="20261015010000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Cinema One Originals</title>
+    <desc lang="tl">Special late-night indie showcase.</desc>
+    <category lang="en">Cinema One Originals</category>
+  </programme>
+
+  <!-- ==================== THURSDAY (HUWEBES) ==================== -->
+  <programme start="20261015060000 +0800" stop="20261015080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Classic drama and romance movie features.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261015080000 +0800" stop="20261015100000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Action Hours</title>
+    <desc lang="tl">Thrilling action cinema segment.</desc>
+    <category lang="en">Action Hours</category>
+  </programme>
+
+  <programme start="20261015100000 +0800" stop="20261015120000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Mid-day comedy movies.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261015120000 +0800" stop="20261015140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Timeless Filipino movie classics.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261015140000 +0800" stop="20261015160000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Lighthearted afternoon comedy presentation.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261015160000 +0800" stop="20261015180000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Early evening romantic comedy features.</desc>
+    <category lang="en">RomCom</category>
+  </programme>
+
+  <programme start="20261015180000 +0800" stop="20261015210000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Top-charting Filipino romance and drama hits.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261015210000 +0800" stop="20261015230000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Late primetime hit movie presentation.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261015230000 +0800" stop="20261016010000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Cinema One Originals</title>
+    <desc lang="tl">Midnight indie and festival movie feature.</desc>
+    <category lang="en">Cinema One Originals</category>
+  </programme>
+
+  <!-- ==================== FRIDAY (BIYERNES) ==================== -->
+  <programme start="20261016060000 +0800" stop="20261016080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">90s classic teen romance and drama films.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261016080000 +0800" stop="20261016100000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Action Hours</title>
+    <desc lang="tl">Retro Pinoy action movies block.</desc>
+    <category lang="en">Action Hours</category>
+  </programme>
+
+  <programme start="20261016100000 +0800" stop="20261016120000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Friday morning comedy special.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261016120000 +0800" stop="20261016140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Masterpiece romance and drama classics.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261016140000 +0800" stop="20261016160000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Comedy</title>
+    <desc lang="tl">Afternoon family comedy block.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <programme start="20261016160000 +0800" stop="20261016180000 +0800" channel="cinemaone.ph">
+    <title lang="tl">RomCom</title>
+    <desc lang="tl">Romantic drama and comedy films.</desc>
+    <category lang="en">RomCom</category>
+  </programme>
+
+  <programme start="20261016180000 +0800" stop="20261016210000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Friday primetime blockbuster hit movie.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261016210000 +0800" stop="20261016230000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Late-night Friday movie presentation.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261016230000 +0800" stop="20261017010000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Cinema One Originals</title>
+    <desc lang="tl">Cinema One Film Festival feature films.</desc>
+    <category lang="en">Cinema One Originals</category>
+  </programme>
+
+  <!-- ==================== SATURDAY (SABADO) ==================== -->
+  <programme start="20261017060000 +0800" stop="20261017080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Weekend morning classic movies.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261017080000 +0800" stop="20261017110000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Marathon</title>
+    <desc lang="tl">Back-to-back mini-series and drama special marathon.</desc>
+    <category lang="en">CineSerye</category>
+    <category lang="en">Series</category>
+  </programme>
+
+  <programme start="20261017110000 +0800" stop="20261017140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Action Hours</title>
+    <desc lang="tl">Weekend midday action hits.</desc>
+    <category lang="en">Action Hours</category>
+  </programme>
+
+  <programme start="20261017140000 +0800" stop="20261017170000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Saturday afternoon blockbuster comedy and fantasy hits.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261017170000 +0800" stop="20261017190000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Cinema</title>
+    <desc lang="tl">Early evening romantic hit movie feature.</desc>
+    <category lang="en">Blockbuster Cinema</category>
+  </programme>
+
+  <programme start="20261017190000 +0800" stop="20261017220000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Restored Classics</title>
+    <desc lang="tl">Digitally remastered iconic Philippine cinema masterpieces.</desc>
+    <category lang="en">Restored Classics</category>
+  </programme>
+
+  <programme start="20261017220000 +0800" stop="20261018000000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Cinema One Originals</title>
+    <desc lang="tl">Award-winning indie films showcase.</desc>
+    <category lang="en">Cinema One Originals</category>
+  </programme>
+
+  <!-- ==================== SUNDAY (LINGGO) ==================== -->
+  <programme start="20261018060000 +0800" stop="20261018080000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Star Cinema Classics</title>
+    <desc lang="tl">Sunday morning classic fantasy and family films.</desc>
+    <category lang="en">Star Cinema Classics</category>
+  </programme>
+
+  <programme start="20261018080000 +0800" stop="20261018110000 +0800" channel="cinemaone.ph">
+    <title lang="tl">C1 Marathon</title>
+    <desc lang="tl">Sunday series marathon and drama specials catch-up.</desc>
+    <category lang="en">CineSerye</category>
+    <category lang="en">Series</category>
+  </programme>
+
+  <programme start="20261018110000 +0800" stop="20261018140000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Sunday</title>
+    <desc lang="tl">Sunday noontime mega-hit movie feature.</desc>
+    <category lang="en">Blockbuster Sunday</category>
+  </programme>
+
+  <programme start="20261018140000 +0800" stop="20261018170000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Sunday</title>
+    <desc lang="tl">Sunday afternoon blockbuster comedy presentation.</desc>
+    <category lang="en">Blockbuster Sunday</category>
+  </programme>
+
+  <programme start="20261018170000 +0800" stop="20261018190000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Sunday</title>
+    <desc lang="tl">Special weekend movie showcase and highlights.</desc>
+    <category lang="en">Blockbuster Sunday</category>
+  </programme>
+
+  <programme start="20261018190000 +0800" stop="20261018220000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Blockbuster Sunday Prime</title>
+    <desc lang="tl">The biggest blockbuster film of the week.</desc>
+    <category lang="en">Blockbuster Sunday</category>
+  </programme>
+
+  <programme start="20261018220000 +0800" stop="20261019000000 +0800" channel="cinemaone.ph">
+    <title lang="tl">Restored Classics</title>
+    <desc lang="tl">Late-night remastered Philippine cinema classic.</desc>
+    <category lang="en">Restored Classics</category>
+  </programme>
+
+</tv>
