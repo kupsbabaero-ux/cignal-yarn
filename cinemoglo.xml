@@ -7,303 +7,399 @@
 
   <!-- MONDAY -->
   <programme start="20261012000000 +0800" stop="20261012010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261012010000 +0800" stop="20261012030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261012030000 +0800" stop="20261012040000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Revisit iconic Pinoy TV dramas that everyone grew up watching.</desc>
   </programme>
   <programme start="20261012040000 +0800" stop="20261012060000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Kick off your early morning with classic action films and punchlines.</desc>
   </programme>
   <programme start="20261012060000 +0800" stop="20261012080000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetakilya</title>
+    <title lang="en">Cinetakilya</title>
+    <desc lang="en">Big box-office hits from back in the day, perfect for morning watching.</desc>
   </programme>
   <programme start="20261012080000 +0800" stop="20261012100000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
+    <title lang="en">Cinekomedya</title>
+    <desc lang="en">Start your morning with guaranteed laughs from top Pinoy comedy icons.</desc>
   </programme>
   <programme start="20261012100000 +0800" stop="20261012120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Lighthearted family movies to enjoy right around lunch break.</desc>
   </programme>
   <programme start="20261012120000 +0800" stop="20261012140000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineastig</title>
+    <title lang="en">Cineastig</title>
+    <desc lang="en">Hard-hitting action flicks starring your favorite Pinoy action stars.</desc>
   </programme>
   <programme start="20261012140000 +0800" stop="20261012160000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekamao</title>
+    <title lang="en">Cinekamao</title>
+    <desc lang="en">Brawl-heavy martial arts and fistfight action for your afternoon lineup.</desc>
   </programme>
   <programme start="20261012160000 +0800" stop="20261012180000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetawanan</title>
+    <title lang="en">Cinetawanan</title>
+    <desc lang="en">De-stress after work with hilarious, timeless Pinoy comedy classics.</desc>
   </programme>
   <programme start="20261012180000 +0800" stop="20261012200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinebarako</title>
+    <title lang="en">Cinebarako</title>
+    <desc lang="en">Gritty, tough-guy action movies built for real action fans.</desc>
   </programme>
   <programme start="20261012200000 +0800" stop="20261012210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Catch up on the latest drama and twists in primetime series lineups.</desc>
   </programme>
   <programme start="20261012210000 +0800" stop="20261012230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineaksyon</title>
+    <title lang="en">Cineaksyon</title>
+    <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261012230000 +0800" stop="20261013000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 
   <!-- TUESDAY -->
   <programme start="20261013000000 +0800" stop="20261013010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261013010000 +0800" stop="20261013030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261013030000 +0800" stop="20261013040000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Revisit iconic Pinoy TV dramas that everyone grew up watching.</desc>
   </programme>
   <programme start="20261013040000 +0800" stop="20261013060000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Kick off your early morning with classic action films and punchlines.</desc>
   </programme>
   <programme start="20261013060000 +0800" stop="20261013080000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetakilya</title>
+    <title lang="en">Cinetakilya</title>
+    <desc lang="en">Big box-office hits from back in the day, perfect for morning watching.</desc>
   </programme>
   <programme start="20261013080000 +0800" stop="20261013100000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
+    <title lang="en">Cinekomedya</title>
+    <desc lang="en">Start your morning with guaranteed laughs from top Pinoy comedy icons.</desc>
   </programme>
   <programme start="20261013100000 +0800" stop="20261013120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Lighthearted family movies to enjoy right around lunch break.</desc>
   </programme>
   <programme start="20261013120000 +0800" stop="20261013140000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineastig</title>
+    <title lang="en">Cineastig</title>
+    <desc lang="en">Hard-hitting action flicks starring your favorite Pinoy action stars.</desc>
   </programme>
   <programme start="20261013140000 +0800" stop="20261013160000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekamao</title>
+    <title lang="en">Cinekamao</title>
+    <desc lang="en">Brawl-heavy martial arts and fistfight action for your afternoon lineup.</desc>
   </programme>
   <programme start="20261013160000 +0800" stop="20261013180000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetawanan</title>
+    <title lang="en">Cinetawanan</title>
+    <desc lang="en">De-stress after work with hilarious, timeless Pinoy comedy classics.</desc>
   </programme>
   <programme start="20261013180000 +0800" stop="20261013200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinebarako</title>
+    <title lang="en">Cinebarako</title>
+    <desc lang="en">Gritty, tough-guy action movies built for real action fans.</desc>
   </programme>
   <programme start="20261013200000 +0800" stop="20261013210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Catch up on the latest drama and twists in primetime series lineups.</desc>
   </programme>
   <programme start="20261013210000 +0800" stop="20261013230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineaksyon</title>
+    <title lang="en">Cineaksyon</title>
+    <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261013230000 +0800" stop="20261014000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 
   <!-- WEDNESDAY -->
   <programme start="20261014000000 +0800" stop="20261014010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261014010000 +0800" stop="20261014030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261014030000 +0800" stop="20261014040000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Revisit iconic Pinoy TV dramas that everyone grew up watching.</desc>
   </programme>
   <programme start="20261014040000 +0800" stop="20261014060000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Kick off your early morning with classic action films and punchlines.</desc>
   </programme>
   <programme start="20261014060000 +0800" stop="20261014080000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetakilya</title>
+    <title lang="en">Cinetakilya</title>
+    <desc lang="en">Big box-office hits from back in the day, perfect for morning watching.</desc>
   </programme>
   <programme start="20261014080000 +0800" stop="20261014100000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
+    <title lang="en">Cinekomedya</title>
+    <desc lang="en">Start your morning with guaranteed laughs from top Pinoy comedy icons.</desc>
   </programme>
   <programme start="20261014100000 +0800" stop="20261014120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Lighthearted family movies to enjoy right around lunch break.</desc>
   </programme>
   <programme start="20261014120000 +0800" stop="20261014140000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineastig</title>
+    <title lang="en">Cineastig</title>
+    <desc lang="en">Hard-hitting action flicks starring your favorite Pinoy action stars.</desc>
   </programme>
   <programme start="20261014140000 +0800" stop="20261014160000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekamao</title>
+    <title lang="en">Cinekamao</title>
+    <desc lang="en">Brawl-heavy martial arts and fistfight action for your afternoon lineup.</desc>
   </programme>
   <programme start="20261014160000 +0800" stop="20261014180000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetawanan</title>
+    <title lang="en">Cinetawanan</title>
+    <desc lang="en">De-stress after work with hilarious, timeless Pinoy comedy classics.</desc>
   </programme>
   <programme start="20261014180000 +0800" stop="20261014200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinebarako</title>
+    <title lang="en">Cinebarako</title>
+    <desc lang="en">Gritty, tough-guy action movies built for real action fans.</desc>
   </programme>
   <programme start="20261014200000 +0800" stop="20261014210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Catch up on the latest drama and twists in primetime series lineups.</desc>
   </programme>
   <programme start="20261014210000 +0800" stop="20261014230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineaksyon</title>
+    <title lang="en">Cineaksyon</title>
+    <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261014230000 +0800" stop="20261015000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 
   <!-- THURSDAY -->
   <programme start="20261015000000 +0800" stop="20261015010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261015010000 +0800" stop="20261015030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261015030000 +0800" stop="20261015040000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Revisit iconic Pinoy TV dramas that everyone grew up watching.</desc>
   </programme>
   <programme start="20261015040000 +0800" stop="20261015060000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Kick off your early morning with classic action films and punchlines.</desc>
   </programme>
   <programme start="20261015060000 +0800" stop="20261015080000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetakilya</title>
+    <title lang="en">Cinetakilya</title>
+    <desc lang="en">Big box-office hits from back in the day, perfect for morning watching.</desc>
   </programme>
   <programme start="20261015080000 +0800" stop="20261015100000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
+    <title lang="en">Cinekomedya</title>
+    <desc lang="en">Start your morning with guaranteed laughs from top Pinoy comedy icons.</desc>
   </programme>
   <programme start="20261015100000 +0800" stop="20261015120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Lighthearted family movies to enjoy right around lunch break.</desc>
   </programme>
   <programme start="20261015120000 +0800" stop="20261015140000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineastig</title>
+    <title lang="en">Cineastig</title>
+    <desc lang="en">Hard-hitting action flicks starring your favorite Pinoy action stars.</desc>
   </programme>
   <programme start="20261015140000 +0800" stop="20261015160000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekamao</title>
+    <title lang="en">Cinekamao</title>
+    <desc lang="en">Brawl-heavy martial arts and fistfight action for your afternoon lineup.</desc>
   </programme>
   <programme start="20261015160000 +0800" stop="20261015180000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetawanan</title>
+    <title lang="en">Cinetawanan</title>
+    <desc lang="en">De-stress after work with hilarious, timeless Pinoy comedy classics.</desc>
   </programme>
   <programme start="20261015180000 +0800" stop="20261015200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinebarako</title>
+    <title lang="en">Cinebarako</title>
+    <desc lang="en">Gritty, tough-guy action movies built for real action fans.</desc>
   </programme>
   <programme start="20261015200000 +0800" stop="20261015210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Catch up on the latest drama and twists in primetime series lineups.</desc>
   </programme>
   <programme start="20261015210000 +0800" stop="20261015230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineaksyon</title>
+    <title lang="en">Cineaksyon</title>
+    <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261015230000 +0800" stop="20261016000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 
   <!-- FRIDAY -->
   <programme start="20261016000000 +0800" stop="20261016010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261016010000 +0800" stop="20261016030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261016030000 +0800" stop="20261016040000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Revisit iconic Pinoy TV dramas that everyone grew up watching.</desc>
   </programme>
   <programme start="20261016040000 +0800" stop="20261016060000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Kick off your early morning with classic action films and punchlines.</desc>
   </programme>
   <programme start="20261016060000 +0800" stop="20261016080000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetakilya</title>
+    <title lang="en">Cinetakilya</title>
+    <desc lang="en">Big box-office hits from back in the day, perfect for morning watching.</desc>
   </programme>
   <programme start="20261016080000 +0800" stop="20261016100000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
+    <title lang="en">Cinekomedya</title>
+    <desc lang="en">Start your morning with guaranteed laughs from top Pinoy comedy icons.</desc>
   </programme>
   <programme start="20261016100000 +0800" stop="20261016120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Lighthearted family movies to enjoy right around lunch break.</desc>
   </programme>
   <programme start="20261016120000 +0800" stop="20261016140000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineastig</title>
+    <title lang="en">Cineastig</title>
+    <desc lang="en">Hard-hitting action flicks starring your favorite Pinoy action stars.</desc>
   </programme>
   <programme start="20261016140000 +0800" stop="20261016160000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekamao</title>
+    <title lang="en">Cinekamao</title>
+    <desc lang="en">Brawl-heavy martial arts and fistfight action for your afternoon lineup.</desc>
   </programme>
   <programme start="20261016160000 +0800" stop="20261016180000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinetawanan</title>
+    <title lang="en">Cinetawanan</title>
+    <desc lang="en">De-stress after work with hilarious, timeless Pinoy comedy classics.</desc>
   </programme>
   <programme start="20261016180000 +0800" stop="20261016200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinebarako</title>
+    <title lang="en">Cinebarako</title>
+    <desc lang="en">Gritty, tough-guy action movies built for real action fans.</desc>
   </programme>
   <programme start="20261016200000 +0800" stop="20261016210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineserye</title>
+    <title lang="en">Cineserye</title>
+    <desc lang="en">Catch up on the latest drama and twists in primetime series lineups.</desc>
   </programme>
   <programme start="20261016210000 +0800" stop="20261016230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineaksyon</title>
+    <title lang="en">Cineaksyon</title>
+    <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261016230000 +0800" stop="20261017000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 
   <!-- SATURDAY -->
   <programme start="20261017000000 +0800" stop="20261017010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261017010000 +0800" stop="20261017030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261017030000 +0800" stop="20261017050000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Start your Saturday early with non-stop action and crowd favorites.</desc>
   </programme>
   <programme start="20261017050000 +0800" stop="20261017070000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineuna</title>
+    <title lang="en">Cineuna</title>
+    <desc lang="en">Early morning weekend movies to set a great mood for the day.</desc>
   </programme>
   <programme start="20261017070000 +0800" stop="20261017090000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesigaw</title>
+    <title lang="en">Cinesigaw</title>
+    <desc lang="en">Spooky Pinoy horror films and supernatural tales to jumpstart your morning.</desc>
   </programme>
   <programme start="20261017090000 +0800" stop="20261017110000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekilig</title>
+    <title lang="en">Cinekilig</title>
+    <desc lang="en">Classic Pinoy rom-coms and feel-good love stories for the whole family.</desc>
   </programme>
   <programme start="20261017110000 +0800" stop="20261017130000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Fun-filled comedy hits perfect to watch while enjoying lunch with family.</desc>
   </programme>
   <programme start="20261017130000 +0800" stop="20261017150000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinematapang</title>
+    <title lang="en">Cinematapang</title>
+    <desc lang="en">Test your grit with fearless action features and intense battles.</desc>
   </programme>
   <programme start="20261017150000 +0800" stop="20261017170000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesiga</title>
+    <title lang="en">Cinesiga</title>
+    <desc lang="en">Badass blockbusters from the most tough-guy legends of Philippine cinema.</desc>
   </programme>
   <programme start="20261017170000 +0800" stop="20261017190000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sabado Sine</title>
+    <title lang="en">Super Sabado Sine</title>
+    <desc lang="en">The biggest Saturday movie special lined up for weekend family bonding.</desc>
   </programme>
   <programme start="20261017190000 +0800" stop="20261017210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Dolphy Hari Ng Comedy</title>
+    <title lang="en">Dolphy Hari Ng Comedy</title>
+    <desc lang="en">Special tribute block showcasing iconic hit films of the King of Comedy, Dolphy.</desc>
   </programme>
   <programme start="20261017210000 +0800" stop="20261017230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinematon</title>
+    <title lang="en">Cinematon</title>
+    <desc lang="en">Non-stop movie marathon featuring crowd-favorite Pinoy films on Saturday night.</desc>
   </programme>
   <programme start="20261017230000 +0800" stop="20261018000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 
   <!-- SUNDAY -->
   <programme start="20261018000000 +0800" stop="20261018010000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Classic Pinoy gag shows and funny skits to keep you company late at night.</desc>
   </programme>
   <programme start="20261018010000 +0800" stop="20261018030000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Easygoing comedy movies for anyone still up past midnight.</desc>
   </programme>
   <programme start="20261018030000 +0800" stop="20261018050000 +0800" channel="cinemo.ph">
-    <title lang="tl">Super Sine</title>
+    <title lang="en">Super Sine</title>
+    <desc lang="en">Kick off your Sunday early with classic action films and punchlines.</desc>
   </programme>
   <programme start="20261018050000 +0800" stop="20261018070000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cineuna</title>
+    <title lang="en">Cineuna</title>
+    <desc lang="en">Early morning Sunday movies to start your day on a relaxed note.</desc>
   </programme>
   <programme start="20261018070000 +0800" stop="20261018090000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesigaw</title>
+    <title lang="en">Cinesigaw</title>
+    <desc lang="en">Spooky Pinoy horror films and supernatural tales to jumpstart your morning.</desc>
   </programme>
   <programme start="20261018090000 +0800" stop="20261018110000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekilig</title>
+    <title lang="en">Cinekilig</title>
+    <desc lang="en">Classic Pinoy rom-coms and feel-good love stories for the whole family.</desc>
   </programme>
   <programme start="20261018110000 +0800" stop="20261018130000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
+    <title lang="en">Cinesaya</title>
+    <desc lang="en">Fun-filled comedy hits perfect to watch while enjoying lunch with family.</desc>
   </programme>
   <programme start="20261018130000 +0800" stop="20261018150000 +0800" channel="cinemo.ph">
-    <title lang="tl">Alamat Ni Agimat</title>
+    <title lang="en">Alamat Ni Agimat</title>
+    <desc lang="en">Special fantasy-action block featuring mythical tales of charms and amulets.</desc>
   </programme>
   <programme start="20261018150000 +0800" stop="20261018170000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesiga</title>
+    <title lang="en">Cinesiga</title>
+    <desc lang="en">Badass blockbusters from the most tough-guy legends of Philippine cinema.</desc>
   </programme>
   <programme start="20261018170000 +0800" stop="20261018190000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinemo Box Office</title>
+    <title lang="en">Cinemo Box Office</title>
+    <desc lang="en">CineMo's premier weekly feature bringing you massive blockbuster hits.</desc>
   </programme>
   <programme start="20261018190000 +0800" stop="20261018210000 +0800" channel="cinemo.ph">
-    <title lang="tl">Markang Daboy</title>
+    <title lang="en">Markang Daboy</title>
+    <desc lang="en">Tribute block celebrating the legendary action movies of Action King Rudy Fernandez.</desc>
   </programme>
   <programme start="20261018210000 +0800" stop="20261018230000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinematon</title>
+    <title lang="en">Cinematon</title>
+    <desc lang="en">Weekend finale movie marathon to relax and recharge before Monday comes.</desc>
   </programme>
   <programme start="20261018230000 +0800" stop="20261019000000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekwela</title>
+    <title lang="en">Cinekwela</title>
+    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
   </programme>
 </tv>
