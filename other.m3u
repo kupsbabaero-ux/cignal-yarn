@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="Entertainment",Comedy Central East
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png",Comedy Central East
 http://200.32.231.178/comedy_central/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/512px-BBC_News_2022.svg.png" group-title="News",BBC World News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/512px-BBC_News_2022.svg.png",BBC World News
 http://200.32.231.178/BBC_World_News/index.m3u8
 
-#EXTINF:-1 tvg-id="Univision.us" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Univision_logo.svg/512px-Univision_logo.svg.png" group-title="General",UNIVISION
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Univision_logo.svg/512px-Univision_logo.svg.png",UNIVISION
 https://streaming.onnethn.com/UNIVISION/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2023_logo.svg/512px-Nickelodeon_2023_logo.svg.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2023_logo.svg/512px-Nickelodeon_2023_logo.svg.png",Nickelodeon
 http://200.32.231.178/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="News",CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
 http://200.32.231.178/cnbc/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MTV_2021.svg/512px-MTV_2021.svg.png" group-title="Music",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MTV_2021.svg/512px-MTV_2021.svg.png",MTV
 http://200.32.231.178/mtv/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-in.png" group-title="Movies",STAR MOVIES HD
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-in.png",STAR MOVIES HD
 https://p4kp.rjmbts.workers.dev/349.m3u8
 
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-select-hd-in.png" group-title="Movies",STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-select-hd-in.png",STAR MOVIES SELECT HD
 https://p4kp.rjmbts.workers.dev/353.m3u8
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="SONY PIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-pix-hd-in.png" group-title="Movies",SONY PIX HD
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="SONY PIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-pix-hd-in.png",SONY PIX HD
 https://p4kp.rjmbts.workers.dev/22124.m3u8
 
-#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="Vice TV FAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV FAST
+#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="Vice TV FAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png",Vice TV FAST
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
