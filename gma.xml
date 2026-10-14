@@ -11,8 +11,9 @@
   </channel>
 
   <!-- =================================================== -->
-  <!-- WEEKDAY PATTERN (OCTOBER 12 - MONDAY)              -->
+  <!-- WEEKDAYS (MONDAY TO FRIDAY) - OCT 12-16, 2026       -->
   <!-- =================================================== -->
+  <!-- LUNES (OCT 12) -->
   <programme start="20261012053000 +0800" stop="20261012080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
   <programme start="20261012080000 +0800" stop="20261012090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
   <programme start="20261012090000 +0800" stop="20261012110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
@@ -30,7 +31,7 @@
   <programme start="20261012221500 +0800" stop="20261012230000 +0800" channel="GMA7.ph"><title lang="en">Saksi</title></programme>
   <programme start="20261012230000 +0800" stop="20261013000000 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Late Night K-Drama</title></programme>
 
-  <!-- WEEKDAY PATTERN (OCTOBER 13 - TUESDAY) -->
+  <!-- MARTES (OCT 13) -->
   <programme start="20261013053000 +0800" stop="20261013080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
   <programme start="20261013080000 +0800" stop="20261013090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
   <programme start="20261013090000 +0800" stop="20261013110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
@@ -48,7 +49,7 @@
   <programme start="20261013221500 +0800" stop="20261013230000 +0800" channel="GMA7.ph"><title lang="en">Saksi</title></programme>
   <programme start="20261013230000 +0800" stop="20261014000000 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Late Night K-Drama</title></programme>
 
-  <!-- WEEKDAY PATTERN (OCTOBER 14 - WEDNESDAY) -->
+  <!-- MIYERKOLES (OCT 14) -->
   <programme start="20261014053000 +0800" stop="20261014080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
   <programme start="20261014080000 +0800" stop="20261014090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
   <programme start="20261014090000 +0800" stop="20261014110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
@@ -66,7 +67,7 @@
   <programme start="20261014221500 +0800" stop="20261014230000 +0800" channel="GMA7.ph"><title lang="en">Saksi</title></programme>
   <programme start="20261014230000 +0800" stop="20261015000000 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Late Night K-Drama</title></programme>
 
-  <!-- WEEKDAY PATTERN (OCTOBER 15 - THURSDAY) -->
+  <!-- HUWEBES (OCT 15) -->
   <programme start="20261015053000 +0800" stop="20261015080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
   <programme start="20261015080000 +0800" stop="20261015090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
   <programme start="20261015090000 +0800" stop="20261015110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
@@ -84,7 +85,7 @@
   <programme start="20261015221500 +0800" stop="20261015230000 +0800" channel="GMA7.ph"><title lang="en">Saksi</title></programme>
   <programme start="20261015230000 +0800" stop="20261016000000 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Late Night K-Drama</title></programme>
 
-  <!-- WEEKDAY PATTERN (OCTOBER 16 - FRIDAY) -->
+  <!-- BIYERNES (OCT 16) -->
   <programme start="20261016053000 +0800" stop="20261016080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
   <programme start="20261016080000 +0800" stop="20261016090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
   <programme start="20261016090000 +0800" stop="20261016110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
@@ -102,7 +103,10 @@
   <programme start="20261016221500 +0800" stop="20261016230000 +0800" channel="GMA7.ph"><title lang="en">Saksi</title></programme>
   <programme start="20261016230000 +0800" stop="20261017000000 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Late Night K-Drama</title></programme>
 
-  <!-- SATURDAY PATTERN (OCTOBER 17) -->
+  <!-- =================================================== -->
+  <!-- WEEKEND (SABADO & LINGGO) - OCT 17-18, 2026         -->
+  <!-- =================================================== -->
+  <!-- SABADO (OCT 17) -->
   <programme start="20261017053000 +0800" stop="20261017060000 +0800" channel="GMA7.ph"><title lang="en">Kapwa Ko, Mahal Ko</title></programme>
   <programme start="20261017060000 +0800" stop="20261017070000 +0800" channel="GMA7.ph"><title lang="en">Agripreneur</title></programme>
   <programme start="20261017070000 +0800" stop="20261017100000 +0800" channel="GMA7.ph"><title lang="en">Sabado Kids &amp; Anime Block</title></programme>
@@ -115,7 +119,7 @@
   <programme start="20261017203000 +0800" stop="20261017213000 +0800" channel="GMA7.ph"><title lang="en">GMA Weekend Special</title></programme>
   <programme start="20261017213000 +0800" stop="20261017223000 +0800" channel="GMA7.ph"><title lang="en">I-Witness</title></programme>
 
-  <!-- SUNDAY PATTERN (OCTOBER 18) -->
+  <!-- LINGGO (OCT 18) -->
   <programme start="20261018053000 +0800" stop="20261018090000 +0800" channel="GMA7.ph"><title lang="en">Sunday Morning Kids &amp; Religion</title></programme>
   <programme start="20261018090000 +0800" stop="20261018100000 +0800" channel="GMA7.ph"><title lang="en">Born to be Wild</title></programme>
   <programme start="20261018100000 +0800" stop="20261018120000 +0800" channel="GMA7.ph"><title lang="en">iBilib / Kapuso Movie Festival</title></programme>
@@ -124,5 +128,43 @@
   <programme start="20261018173000 +0800" stop="20261018181500 +0800" channel="GMA7.ph"><title lang="en">24 Oras Weekend</title></programme>
   <programme start="20261018181500 +0800" stop="20261018201500 +0800" channel="GMA7.ph"><title lang="en">Kapuso Mo, Jessica Soho</title></programme>
   <programme start="20261018201500 +0800" stop="20261018213000 +0800" channel="GMA7.ph"><title lang="en">The Boobay and Tekla Show</title></programme>
+
+  <!-- =================================================== -->
+  <!-- EXTENDED PATTERN (OCT 19 - OCT 25, 2026)           -->
+  <!-- =================================================== -->
+  <!-- LUNES (OCT 19) -->
+  <programme start="20261019053000 +0800" stop="20261019080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
+  <programme start="20261019080000 +0800" stop="20261019090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
+  <programme start="20261019090000 +0800" stop="20261019110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
+  <programme start="20261019110000 +0800" stop="20261019120000 +0800" channel="GMA7.ph"><title lang="en">TiktoClock</title></programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="GMA7.ph"><title lang="en">It's Showtime</title></programme>
+  <programme start="20261019143000 +0800" stop="20261019152000 +0800" channel="GMA7.ph"><title lang="en">Abot-Kamay Na Pangarap</title></programme>
+  <programme start="20261019152000 +0800" stop="20261019160500 +0800" channel="GMA7.ph"><title lang="en">Lilet Matias: Attorney-at-Law</title></programme>
+  <programme start="20261019160500 +0800" stop="20261019163000 +0800" channel="GMA7.ph"><title lang="en">Fast Talk with Boy Abunda</title></programme>
+  <programme start="20261019163000 +0800" stop="20261019174000 +0800" channel="GMA7.ph"><title lang="en">Makiling</title></programme>
+  <programme start="20261019174000 +0800" stop="20261019183000 +0800" channel="GMA7.ph"><title lang="en">Family Feud</title></programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="GMA7.ph"><title lang="en">24 Oras</title></programme>
+  <programme start="20261019200000 +0800" stop="20261019205000 +0800" channel="GMA7.ph"><title lang="en">Pulang Araw</title></programme>
+  <programme start="20261019205000 +0800" stop="20261019213500 +0800" channel="GMA7.ph"><title lang="en">Widows' War</title></programme>
+  <programme start="20261019213500 +0800" stop="20261019221500 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Korean Drama Block</title></programme>
+  <programme start="20261019221500 +0800" stop="20261019230000 +0800" channel="GMA7.ph"><title lang="en">Saksi</title></programme>
+  <programme start="20261019230000 +0800" stop="20261020000000 +0800" channel="GMA7.ph"><title lang="en">GMA Heart of Asia: Late Night K-Drama</title></programme>
+
+  <!-- MARTES (OCT 20) -->
+  <programme start="20261020053000 +0800" stop="20261020080000 +0800" channel="GMA7.ph"><title lang="en">Unang Hirit</title></programme>
+  <programme start="20261020080000 +0800" stop="20261020090000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Anime Block</title></programme>
+  <programme start="20261020090000 +0800" stop="20261020110000 +0800" channel="GMA7.ph"><title lang="en">Kapuso Movie Festival</title></programme>
+  <programme start="20261020110000 +0800" stop="20261020120000 +0800" channel="GMA7.ph"><title lang="en">TiktoClock</title></programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="GMA7.ph"><title lang="en">It's Showtime</title></programme>
+  <programme start="20261020143000 +0800" stop="20261020152000 +0800" channel="GMA7.ph"><title lang="en">Abot-Kamay Na Pangarap</title></programme>
+  <programme start="20261020152000 +0800" stop="20261020160500 +0800" channel="GMA7.ph"><title lang="en">Lilet Matias: Attorney-at-Law</title></programme>
+
+  <!-- SABADO (OCT 24) -->
+  <programme start="20261024181500 +0800" stop="20261024191500 +0800" channel="GMA7.ph"><title lang="en">Pepito Manaloto: Tuloy Ang Kuwento</title></programme>
+  <programme start="20261024191500 +0800" stop="20261024203000 +0800" channel="GMA7.ph"><title lang="en">Magpakailanman</title></programme>
+
+  <!-- LINGGO (OCT 25) -->
+  <programme start="20261025181500 +0800" stop="20261025201500 +0800" channel="GMA7.ph"><title lang="en">Kapuso Mo, Jessica Soho</title></programme>
+  <programme start="20261025201500 +0800" stop="20261025213000 +0800" channel="GMA7.ph"><title lang="en">The Boobay and Tekla Show</title></programme>
 
 </tv>
