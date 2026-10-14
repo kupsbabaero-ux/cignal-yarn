@@ -59,8 +59,8 @@
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261012230000 +0800" stop="20261013000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 
   <!-- TUESDAY -->
@@ -117,8 +117,8 @@
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261013230000 +0800" stop="20261014000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 
   <!-- WEDNESDAY -->
@@ -175,8 +175,8 @@
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261014230000 +0800" stop="20261015000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 
   <!-- THURSDAY -->
@@ -233,8 +233,8 @@
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261015230000 +0800" stop="20261016000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 
   <!-- FRIDAY -->
@@ -291,8 +291,8 @@
     <desc lang="en">Primetime action block showcasing the country's biggest film stars.</desc>
   </programme>
   <programme start="20261016230000 +0800" stop="20261017000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 
   <!-- SATURDAY -->
@@ -345,8 +345,8 @@
     <desc lang="en">Non-stop movie marathon featuring crowd-favorite Pinoy films on Saturday night.</desc>
   </programme>
   <programme start="20261017230000 +0800" stop="20261018000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 
   <!-- SUNDAY -->
@@ -399,7 +399,7 @@
     <desc lang="en">Weekend finale movie marathon to relax and recharge before Monday comes.</desc>
   </programme>
   <programme start="20261018230000 +0800" stop="20261019000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-    <desc lang="en">Wrap up the night with light jokes and comedy clips before bed.</desc>
+    <title lang="en">CineSilip</title>
+    <desc lang="en">Late-night suspense, sexy-drama, and thriller features for midnight watchers.</desc>
   </programme>
 </tv>
