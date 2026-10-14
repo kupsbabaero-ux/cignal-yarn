@@ -11,249 +11,246 @@
   </channel>
 
   <!-- =================================================== -->
-  <!-- MONDAY TO FRIDAY SCHEDULE                           -->
+  <!-- LUNES HANGGANG BIYERNES (WEEKDAYS)                  -->
   <!-- =================================================== -->
 
-  <programme start="20261019053000 +0800" stop="20261019080000 +0800" channel="GMA7.ph">
+  <programme start="20261012053000 +0800" stop="20261012080000 +0800" channel="GMA7.ph">
     <title lang="en">Unang Hirit</title>
   </programme>
 
-  <programme start="20261019080000 +0800" stop="20261019082500 +0800" channel="GMA7.ph">
+  <programme start="20261012080000 +0800" stop="20261012082500 +0800" channel="GMA7.ph">
     <title lang="en">Slam Dunk</title>
   </programme>
 
-  <programme start="20261019082500 +0800" stop="20261019090000 +0800" channel="GMA7.ph">
+  <programme start="20261012082500 +0800" stop="20261012090000 +0800" channel="GMA7.ph">
     <title lang="en">Kamen Rider Geats</title>
   </programme>
 
-  <programme start="20261019090000 +0800" stop="20261019093000 +0800" channel="GMA7.ph">
+  <programme start="20261012090000 +0800" stop="20261012093000 +0800" channel="GMA7.ph">
     <title lang="en">Innocent Lies</title>
   </programme>
 
-  <programme start="20261019093000 +0800" stop="20261019110000 +0800" channel="GMA7.ph">
+  <programme start="20261012093000 +0800" stop="20261012110000 +0800" channel="GMA7.ph">
     <title lang="en">Kapuso Movie Festival</title>
   </programme>
 
-  <programme start="20261019110000 +0800" stop="20261019120000 +0800" channel="GMA7.ph">
+  <programme start="20261012110000 +0800" stop="20261012120000 +0800" channel="GMA7.ph">
     <title lang="en">TiktoClock</title>
   </programme>
 
-  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="GMA7.ph">
+  <programme start="20261012120000 +0800" stop="20261012143000 +0800" channel="GMA7.ph">
     <title lang="en">It's Showtime</title>
   </programme>
 
-  <!-- AFTERNOON PRIME BLOCK -->
-  <programme start="20261019143000 +0800" stop="20261019152000 +0800" channel="GMA7.ph">
+  <programme start="20261012143000 +0800" stop="20261012152000 +0800" channel="GMA7.ph">
     <title lang="en">Born To Shine</title>
   </programme>
 
-  <programme start="20261019152000 +0800" stop="20261019160500 +0800" channel="GMA7.ph">
+  <programme start="20261012152000 +0800" stop="20261012160500 +0800" channel="GMA7.ph">
     <title lang="en">Kamao</title>
   </programme>
 
-  <programme start="20261019160500 +0800" stop="20261019163000 +0800" channel="GMA7.ph">
+  <programme start="20261012160500 +0800" stop="20261012163000 +0800" channel="GMA7.ph">
     <title lang="en">Fast Talk with Boy Abunda</title>
   </programme>
 
-  <programme start="20261019163000 +0800" stop="20261019151000 +0800" channel="GMA7.ph">
+  <programme start="20261012163000 +0800" stop="20261012171000 +0800" channel="GMA7.ph">
     <title lang="en">Maria Clara at Ibarra</title>
   </programme>
 
-  <programme start="20261019171000 +0800" stop="20261019174000 +0800" channel="GMA7.ph">
+  <programme start="20261012171000 +0800" stop="20261012174000 +0800" channel="GMA7.ph">
     <title lang="en">Arthdal Chronicles</title>
   </programme>
 
-  <programme start="20261019174000 +0800" stop="20261019183000 +0800" channel="GMA7.ph">
+  <programme start="20261012174000 +0800" stop="20261012183000 +0800" channel="GMA7.ph">
     <title lang="en">Family Feud</title>
   </programme>
 
-  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="GMA7.ph">
+  <programme start="20261012183000 +0800" stop="20261012200000 +0800" channel="GMA7.ph">
     <title lang="en">24 Oras</title>
   </programme>
 
-  <!-- TELEBABAD PRIMETIME BLOCK -->
-  <programme start="20261019200000 +0800" stop="20261019205000 +0800" channel="GMA7.ph">
+  <programme start="20261012200000 +0800" stop="20261012205000 +0800" channel="GMA7.ph">
     <title lang="en">The Master Cutter</title>
   </programme>
 
-  <programme start="20261019205000 +0800" stop="20261019213500 +0800" channel="GMA7.ph">
+  <programme start="20261012205000 +0800" stop="20261012213500 +0800" channel="GMA7.ph">
     <title lang="en">Task Force Firewall</title>
   </programme>
 
-  <programme start="20261019213500 +0800" stop="20261019221000 +0800" channel="GMA7.ph">
+  <programme start="20261012213500 +0800" stop="20261012221000 +0800" channel="GMA7.ph">
     <title lang="en">Love, Siargao</title>
   </programme>
 
-  <programme start="20261019221000 +0800" stop="20261019230000 +0800" channel="GMA7.ph">
+  <programme start="20261012221000 +0800" stop="20261012230000 +0800" channel="GMA7.ph">
     <title lang="en">Saksi</title>
   </programme>
 
-  <!-- LATE NIGHT K-DRAMA & ASIANOVELA BLOCK -->
-  <programme start="20261019230000 +0800" stop="20261019233000 +0800" channel="GMA7.ph">
+  <programme start="20261012230000 +0800" stop="20261012233000 +0800" channel="GMA7.ph">
     <title lang="en">The Kinnaree Conspiracy</title>
   </programme>
 
-  <programme start="20261019233000 +0800" stop="20261020000000 +0800" channel="GMA7.ph">
+  <programme start="20261012233000 +0800" stop="20261013000000 +0800" channel="GMA7.ph">
     <title lang="en">The Baker King</title>
   </programme>
 
-  <programme start="20261020000000 +0800" stop="20261020003000 +0800" channel="GMA7.ph">
+  <programme start="20261013000000 +0800" stop="20261013003000 +0800" channel="GMA7.ph">
     <title lang="en">The 700 Club Asia</title>
   </programme>
 
   <!-- =================================================== -->
-  <!-- SATURDAY SCHEDULE                                   -->
+  <!-- SABADO (SATURDAY SCHEDULE)                          -->
   <!-- =================================================== -->
 
-  <programme start="20261024053000 +0800" stop="20261024060000 +0800" channel="GMA7.ph">
+  <programme start="20261017053000 +0800" stop="20261017060000 +0800" channel="GMA7.ph">
     <title lang="en">Kapwa Ko, Mahal Ko</title>
   </programme>
 
-  <programme start="20261024060000 +0800" stop="20261024063000 +0800" channel="GMA7.ph">
+  <programme start="20261017060000 +0800" stop="20261017063000 +0800" channel="GMA7.ph">
     <title lang="en">Agripreneur</title>
   </programme>
 
-  <programme start="20261024063000 +0800" stop="20261024070000 +0800" channel="GMA7.ph">
+  <programme start="20261017063000 +0800" stop="20261017070000 +0800" channel="GMA7.ph">
     <title lang="en">GameKeepers</title>
   </programme>
 
-  <programme start="20261024070000 +0800" stop="20261024073000 +0800" channel="GMA7.ph">
+  <programme start="20261017070000 +0800" stop="20261017073000 +0800" channel="GMA7.ph">
     <title lang="en">Turbo Zone</title>
   </programme>
 
-  <programme start="20261024073000 +0800" stop="20261024090000 +0800" channel="GMA7.ph">
+  <programme start="20261017073000 +0800" stop="20261017090000 +0800" channel="GMA7.ph">
     <title lang="en">Sabado Kids &amp; Anime Block</title>
   </programme>
 
-  <programme start="20261024090000 +0800" stop="20261024093000 +0800" channel="GMA7.ph">
+  <programme start="20261017090000 +0800" stop="20261017093000 +0800" channel="GMA7.ph">
     <title lang="en">Haikyu!!</title>
   </programme>
 
-  <programme start="20261024093000 +0800" stop="20261024100000 +0800" channel="GMA7.ph">
+  <programme start="20261017093000 +0800" stop="20261017100000 +0800" channel="GMA7.ph">
     <title lang="en">Jujutsu Kaisen</title>
   </programme>
 
-  <programme start="20261024100000 +0800" stop="20261024104500 +0800" channel="GMA7.ph">
+  <programme start="20261017100000 +0800" stop="20261017104500 +0800" channel="GMA7.ph">
     <title lang="en">Dami Mong Alam, Kuya Kim!</title>
   </programme>
 
-  <programme start="20261024104500 +0800" stop="20261024111500 +0800" channel="GMA7.ph">
+  <programme start="20261017104500 +0800" stop="20261017111500 +0800" channel="GMA7.ph">
     <title lang="en">Pera Paraan</title>
   </programme>
 
-  <programme start="20261024111500 +0800" stop="20261024120000 +0800" channel="GMA7.ph">
+  <programme start="20261017111500 +0800" stop="20261017120000 +0800" channel="GMA7.ph">
     <title lang="en">Sarap, 'Di Ba?</title>
   </programme>
 
-  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="GMA7.ph">
+  <programme start="20261017120000 +0800" stop="20261017143000 +0800" channel="GMA7.ph">
     <title lang="en">It's Showtime Saturday</title>
   </programme>
 
-  <programme start="20261024143000 +0800" stop="20261024151500 +0800" channel="GMA7.ph">
+  <programme start="20261017143000 +0800" stop="20261017151500 +0800" channel="GMA7.ph">
     <title lang="en">Tadhana</title>
   </programme>
 
-  <programme start="20261024151500 +0800" stop="20261024160500 +0800" channel="GMA7.ph">
+  <programme start="20261017151500 +0800" stop="20261017160500 +0800" channel="GMA7.ph">
     <title lang="en">Barangay Love Stories</title>
   </programme>
 
-  <programme start="20261024160500 +0800" stop="20261024164500 +0800" channel="GMA7.ph">
+  <programme start="20261017160500 +0800" stop="20261017164500 +0800" channel="GMA7.ph">
     <title lang="en">Wish Ko Lang!</title>
   </programme>
 
-  <programme start="20261024164500 +0800" stop="20261024173000 +0800" channel="GMA7.ph">
+  <programme start="20261017164500 +0800" stop="20261017173000 +0800" channel="GMA7.ph">
     <title lang="en">Farm To Table</title>
   </programme>
 
-  <programme start="20261024173000 +0800" stop="20261024181500 +0800" channel="GMA7.ph">
+  <programme start="20261017173000 +0800" stop="20261017181500 +0800" channel="GMA7.ph">
     <title lang="en">24 Oras Weekend</title>
   </programme>
 
-  <programme start="20261024181500 +0800" stop="20261024191500 +0800" channel="GMA7.ph">
+  <programme start="20261017181500 +0800" stop="20261017191500 +0800" channel="GMA7.ph">
     <title lang="en">Pepito Manaloto: Tuloy Ang Kuwento</title>
   </programme>
 
-  <programme start="20261024191500 +0800" stop="20261024203000 +0800" channel="GMA7.ph">
+  <programme start="20261017191500 +0800" stop="20261017203000 +0800" channel="GMA7.ph">
     <title lang="en">Magpakailanman</title>
   </programme>
 
-  <programme start="20261024203000 +0800" stop="20261024211500 +0800" channel="GMA7.ph">
+  <programme start="20261017203000 +0800" stop="20261017211500 +0800" channel="GMA7.ph">
     <title lang="en">Daig Kayo ng Lola Ko</title>
   </programme>
 
-  <programme start="20261024211500 +0800" stop="20261024220000 +0800" channel="GMA7.ph">
+  <programme start="20261017211500 +0800" stop="20261017220000 +0800" channel="GMA7.ph">
     <title lang="en">I-Witness</title>
   </programme>
 
-  <programme start="20261024220000 +0800" stop="20261024223000 +0800" channel="GMA7.ph">
+  <programme start="20261017220000 +0800" stop="20261017223000 +0800" channel="GMA7.ph">
     <title lang="en">Reporter's Notebook</title>
   </programme>
 
-  <programme start="20261024223000 +0800" stop="20261024230000 +0800" channel="GMA7.ph">
+  <programme start="20261017223000 +0800" stop="20261017230000 +0800" channel="GMA7.ph">
     <title lang="en">The Baker King</title>
   </programme>
 
   <!-- =================================================== -->
-  <!-- SUNDAY SCHEDULE                                     -->
+  <!-- LINGGO (SUNDAY SCHEDULE)                            -->
   <!-- =================================================== -->
 
-  <programme start="20261025060000 +0800" stop="20261025063000 +0800" channel="GMA7.ph">
+  <programme start="20261018060000 +0800" stop="20261018063000 +0800" channel="GMA7.ph">
     <title lang="en">The Key of David</title>
   </programme>
 
-  <programme start="20261025063000 +0800" stop="20261025070000 +0800" channel="GMA7.ph">
+  <programme start="20261018063000 +0800" stop="20261018070000 +0800" channel="GMA7.ph">
     <title lang="en">Yo-Kai Watch</title>
   </programme>
 
-  <programme start="20261025070000 +0800" stop="20261025090000 +0800" channel="GMA7.ph">
+  <programme start="20261018070000 +0800" stop="20261018090000 +0800" channel="GMA7.ph">
     <title lang="en">Sunday Morning Kids Block</title>
   </programme>
 
-  <programme start="20261025090000 +0800" stop="20261025093000 +0800" channel="GMA7.ph">
+  <programme start="20261018090000 +0800" stop="20261018093000 +0800" channel="GMA7.ph">
     <title lang="en">Born to be Wild</title>
   </programme>
 
-  <programme start="20261025093000 +0800" stop="20261025100000 +0800" channel="GMA7.ph">
+  <programme start="20261018093000 +0800" stop="20261018100000 +0800" channel="GMA7.ph">
     <title lang="en">iBilib</title>
   </programme>
 
-  <programme start="20261025100000 +0800" stop="20261025120000 +0800" channel="GMA7.ph">
+  <programme start="20261018100000 +0800" stop="20261018120000 +0800" channel="GMA7.ph">
     <title lang="en">Kapuso Movie Festival Sunday</title>
   </programme>
 
-  <programme start="20261025120000 +0800" stop="20261025140000 +0800" channel="GMA7.ph">
+  <programme start="20261018120000 +0800" stop="20261018140000 +0800" channel="GMA7.ph">
     <title lang="en">All-Out Sundays</title>
   </programme>
 
-  <programme start="20261025140000 +0800" stop="20261025144500 +0800" channel="GMA7.ph">
+  <programme start="20261018140000 +0800" stop="20261018144500 +0800" channel="GMA7.ph">
     <title lang="en">Regal Studio Presents</title>
   </programme>
 
-  <programme start="20261025144500 +0800" stop="20261025151500 +0800" channel="GMA7.ph">
+  <programme start="20261018144500 +0800" stop="20261018151500 +0800" channel="GMA7.ph">
     <title lang="en">RESIBO: Walang Lusot Ang May Atraso!</title>
   </programme>
 
-  <programme start="20261025151500 +0800" stop="20261025173000 +0800" channel="GMA7.ph">
+  <programme start="20261018151500 +0800" stop="20261018173000 +0800" channel="GMA7.ph">
     <title lang="en">FPJ sa GMA</title>
   </programme>
 
-  <programme start="20261025173000 +0800" stop="20261025181500 +0800" channel="GMA7.ph">
+  <programme start="20261018173000 +0800" stop="20261018181500 +0800" channel="GMA7.ph">
     <title lang="en">24 Oras Weekend</title>
   </programme>
 
-  <programme start="20261025181500 +0800" stop="20261025191500 +0800" channel="GMA7.ph">
+  <programme start="20261018181500 +0800" stop="20261018191500 +0800" channel="GMA7.ph">
     <title lang="en">BBLGANG</title>
   </programme>
 
-  <programme start="20261025191500 +0800" stop="20261025201500 +0800" channel="GMA7.ph">
+  <programme start="20261018191500 +0800" stop="20261018201500 +0800" channel="GMA7.ph">
     <title lang="en">Kapuso Mo, Jessica Soho</title>
   </programme>
 
-  <programme start="20261025201500 +0800" stop="20261025211500 +0800" channel="GMA7.ph">
+  <programme start="20261018201500 +0800" stop="20261018211500 +0800" channel="GMA7.ph">
     <title lang="en">The Boobay and Tekla Show</title>
   </programme>
 
-  <programme start="20261025211500 +0800" stop="20261025220000 +0800" channel="GMA7.ph">
+  <programme start="20261018211500 +0800" stop="20261018220000 +0800" channel="GMA7.ph">
     <title lang="en">Just for Laughs Gags</title>
   </programme>
 
