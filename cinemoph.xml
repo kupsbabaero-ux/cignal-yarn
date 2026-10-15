@@ -6,7 +6,7 @@
     <icon src="https://i.imgur.com/cinemo.png" />
   </channel>
 
-  <!-- THURSDAY (OCTOBER 15, 2026) -->
+  <!-- THURSDAY (OCTOBER 15, 2026 - CURRENT DAY) -->
   <programme start="20261015000000 +0800" stop="20261015010000 +0800" channel="cinemo.ph">
     <title lang="tl">Cinekwela</title>
     <desc lang="en">Family-friendly films featuring life lessons and entertaining stories suitable for all ages.</desc>
@@ -32,8 +32,8 @@
     <desc lang="en">Tough, high-octane action movies starring veteran Filipino action legends.</desc>
   </programme>
   <programme start="20261015100000 +0800" stop="20261015120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
-    <desc lang="en">Comedy movies filled with fun, laughter, and uplifting vibes to help you unwind.</desc>
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="en">Hilarious comedy movies and classic comedy block featuring beloved Filipino comedians.</desc>
   </programme>
   <programme start="20261015120000 +0800" stop="20261015140000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineastig</title>
@@ -48,8 +48,8 @@
     <desc lang="en">Lighthearted comedy block featuring iconic Filipino comedians and side-splitting humor.</desc>
   </programme>
   <programme start="20261015180000 +0800" stop="20261015200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
-    <desc lang="en">Primetime comedy slot designed to bring fun and laughter to family dinnertime.</desc>
+    <title lang="tl">Cinesaya</title>
+    <desc lang="en">Primetime comedy slot filled with fun, laughter, and uplifting vibes for family dinnertime.</desc>
   </programme>
   <programme start="20261015200000 +0800" stop="20261015210000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineserye</title>
@@ -94,8 +94,8 @@
     <desc lang="en">Tough, high-octane action movies starring veteran Filipino action legends.</desc>
   </programme>
   <programme start="20261016100000 +0800" stop="20261016120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
-    <desc lang="en">Comedy movies filled with fun, laughter, and uplifting vibes to help you unwind.</desc>
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="en">Hilarious comedy movies and classic comedy block featuring beloved Filipino comedians.</desc>
   </programme>
   <programme start="20261016120000 +0800" stop="20261016140000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineastig</title>
@@ -110,8 +110,8 @@
     <desc lang="en">Lighthearted comedy block featuring iconic Filipino comedians and side-splitting humor.</desc>
   </programme>
   <programme start="20261016180000 +0800" stop="20261016200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
-    <desc lang="en">Primetime comedy slot designed to bring fun and laughter to family dinnertime.</desc>
+    <title lang="tl">Cinesaya</title>
+    <desc lang="en">Primetime comedy slot filled with fun, laughter, and uplifting vibes for family dinnertime.</desc>
   </programme>
   <programme start="20261016200000 +0800" stop="20261016210000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineserye</title>
@@ -272,8 +272,8 @@
     <desc lang="en">Tough, high-octane action movies starring veteran Filipino action legends.</desc>
   </programme>
   <programme start="20261019100000 +0800" stop="20261019120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
-    <desc lang="en">Comedy movies filled with fun, laughter, and uplifting vibes to help you unwind.</desc>
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="en">Hilarious comedy movies and classic comedy block featuring beloved Filipino comedians.</desc>
   </programme>
   <programme start="20261019120000 +0800" stop="20261019140000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineastig</title>
@@ -288,8 +288,8 @@
     <desc lang="en">Lighthearted comedy block featuring iconic Filipino comedians and side-splitting humor.</desc>
   </programme>
   <programme start="20261019180000 +0800" stop="20261019200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
-    <desc lang="en">Primetime comedy slot designed to bring fun and laughter to family dinnertime.</desc>
+    <title lang="tl">Cinesaya</title>
+    <desc lang="en">Primetime comedy slot filled with fun, laughter, and uplifting vibes for family dinnertime.</desc>
   </programme>
   <programme start="20261019200000 +0800" stop="20261019210000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineserye</title>
@@ -334,8 +334,8 @@
     <desc lang="en">Tough, high-octane action movies starring veteran Filipino action legends.</desc>
   </programme>
   <programme start="20261020100000 +0800" stop="20261020120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
-    <desc lang="en">Comedy movies filled with fun, laughter, and uplifting vibes to help you unwind.</desc>
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="en">Hilarious comedy movies and classic comedy block featuring beloved Filipino comedians.</desc>
   </programme>
   <programme start="20261020120000 +0800" stop="20261020140000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineastig</title>
@@ -350,8 +350,8 @@
     <desc lang="en">Lighthearted comedy block featuring iconic Filipino comedians and side-splitting humor.</desc>
   </programme>
   <programme start="20261020180000 +0800" stop="20261020200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
-    <desc lang="en">Primetime comedy slot designed to bring fun and laughter to family dinnertime.</desc>
+    <title lang="tl">Cinesaya</title>
+    <desc lang="en">Primetime comedy slot filled with fun, laughter, and uplifting vibes for family dinnertime.</desc>
   </programme>
   <programme start="20261020200000 +0800" stop="20261020210000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineserye</title>
@@ -396,8 +396,8 @@
     <desc lang="en">Tough, high-octane action movies starring veteran Filipino action legends.</desc>
   </programme>
   <programme start="20261021100000 +0800" stop="20261021120000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinesaya</title>
-    <desc lang="en">Comedy movies filled with fun, laughter, and uplifting vibes to help you unwind.</desc>
+    <title lang="tl">Cinekomedya</title>
+    <desc lang="en">Hilarious comedy movies and classic comedy block featuring beloved Filipino comedians.</desc>
   </programme>
   <programme start="20261021120000 +0800" stop="20261021140000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineastig</title>
@@ -412,8 +412,8 @@
     <desc lang="en">Lighthearted comedy block featuring iconic Filipino comedians and side-splitting humor.</desc>
   </programme>
   <programme start="20261021180000 +0800" stop="20261021200000 +0800" channel="cinemo.ph">
-    <title lang="tl">Cinekomedya</title>
-    <desc lang="en">Primetime comedy slot designed to bring fun and laughter to family dinnertime.</desc>
+    <title lang="tl">Cinesaya</title>
+    <desc lang="en">Primetime comedy slot filled with fun, laughter, and uplifting vibes for family dinnertime.</desc>
   </programme>
   <programme start="20261021200000 +0800" stop="20261021210000 +0800" channel="cinemo.ph">
     <title lang="tl">Cineserye</title>
