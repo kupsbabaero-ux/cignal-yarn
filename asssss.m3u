@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Aniplus.png" group-title="Astro",Aniplus
+#KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Sukan" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sukan_RTM_TVGuide.png" group-title="Astro",Sukan+
+#KODIPROP:inputstream.adaptive.license_key=f7501b321ce3eca79e4437bb8baaae10:eac3ebb6b493616e6a533e8f468ed14f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5212/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Astro30" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-title="Astro",Astro 30
+#KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Cricbuzz" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png" group-title="Astro",Gricbuzz
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
