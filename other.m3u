@@ -72,7 +72,7 @@ http://200.32.231.178/TBS/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",PBS
 http://200.32.231.178/PBS/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",NBC
+#EXTINF:-1 tv-id="NBC.us" tv-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",NBC
 http://200.32.231.178/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/FOX_wordmark-orange_2.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Fox
@@ -116,3 +116,31 @@ https://lb.iptvnetwork.net/ls28/10109/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/BBC_Four_%282021%29.svg/revision/latest?cb=20230531112726",BBC 4
 https://lb.iptvnetwork.net/ls28/10110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTV.to" tvg-logo="" group-title="Canada",CityTV Toronto
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:acfa6946a0db1bc9117c239a4e46ce20
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ubb-lott4-web-opus.cdn.avp.telus.net/232006004235/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="CityTV.ed" tvg-logo="" group-title="Canada",CityTV Edmonton
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:ff86380313078be949e4dcb6199adce3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ubb-lott-web-opus.cdn.avp.telus.net/232006003198/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="CityTV.ca" tvg-logo="" group-title="Canada",CityTV Calgary
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:5ef2662855c29a824880ba1ed5084bbc
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ubb-lott-web-opus.cdn.avp.telus.net/232006003196/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="CityTV.mo" tvg-logo="" group-title="Canada",CityTV Montreal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:aa40ae64381108a45d53feb40e078f7a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ubb-lott3-web-opus.cdn.avp.telus.net/232006134230/vxfmt=dp/manifest.mpd?device_profile=dashvmx
