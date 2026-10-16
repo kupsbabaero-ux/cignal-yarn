@@ -1,111 +1,155 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="A2Z" tvg-name="A2Z" group-title="Philippine Channels",A2Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c22f2162e176eee6273a5d0b68d19530:f703e4c8ec9041eeb5028ab4248fa094
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_a2z.mpd
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Philippine Channels",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f8b65e2af785b10d6634735dbe6c11:92032b0e41a543fb9830751273b8debd
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_animax_sd.mpd
 
 #EXTINF:-1 tvg-id="Bilyonaryo" tvg-name="Bilyonaryo News Channel" group-title="Philippine Channels",Bilyonaryo News Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d0dce5c486891997c1c92ddaca2cd2:227ffaf09bec4a889e0e0988704d52a2
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #EXTINF:-1 tvg-id="Buko" tvg-name="Buko" group-title="Philippine Channels",Buko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7932354c3a84f7fc1b80efa6bcea0615:d273c085f2ab4a248e7bfc375229007d
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 #EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks (Tagalized)" group-title="Philippine Channels",DreamWorks (Tagalized)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3ad27d7fe1f14fb1a2cd5688549fbab:564b3b1c781043c19242c66e348699c5
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="IBC13" tvg-name="IBC 13" group-title="Philippine Channels",IBC 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff0a62bdf8920ce453fe680330b563a5:04e292bc99bd4ccba89e778651914254
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 #EXTINF:-1 tvg-id="KnowledgeChannel" tvg-name="Knowledge Channel" group-title="Philippine Channels",Knowledge Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=783374273ef97ad3bc992c1d63e091e7:0f856fa0412b11edb8780242ac120002
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="Philippine Channels",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ac679aad3b9d619ac39ad634ec76bc8:bab5c11178b646749fbae87962bf5113
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon SD" group-title="Philippine Channels",Nickelodeon SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fbb758cdeeaddfa3eae538856b4d72:9ce58f37576b416381b6514a809bfd8b
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="OneNews" tvg-name="One News HD" group-title="Philippine Channels",One News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6797066880d344422abd3f5eda41f45f:d39eb201ae494a0b98583df4d110e8dd
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-1 tvg-id="OnePH" tvg-name="One PH" group-title="Philippine Channels",One PH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7108d9a6cfcc1b7939eb111daf09ab3:92834ab4a7e1499b90886c5d49220e46
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #EXTINF:-1 tvg-id="OneSports" tvg-name="One Sports HD" group-title="Philippine Channels",One Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de28411cf08a64ea935b9578f6d0edd:53c3bf2eba574f639aa21f2d4409ff11
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 #EXTINF:-1 tvg-id="OneSportsPlus" tvg-name="One Sports+" group-title="Philippine Channels",One Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e3e0ca32d421fbfec86feced0efefda:322d06e9326f4753a7ec0908030c13d8
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-1 tvg-id="PBARush" tvg-name="PBA Rush HD" group-title="Philippine Channels",PBA Rush HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95b2f2ffd4e14073620506213b62ac82:76dc29dd87a244aeab9e8b7c5da1e5f3
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-1 tvg-id="PBO" tvg-name="Pinoy Box Office" group-title="Philippine Channels",Pinoy Box Office
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31e752b441bd2972f2b98a4b1bc1c7a1:dcbdaaa6662d4188bdf97f9f0ca5e830
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:-1 tvg-id="PTV4" tvg-name="PTV 4" group-title="Philippine Channels",PTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad1f003b4f0b31b75ea4593844435600:71a130a851b9484bb47141c8966fb4a3
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 #EXTINF:-1 tvg-id="RPTV" tvg-name="RPTV" group-title="Philippine Channels",RPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1340a251a5aa63a9b0ea5d9d7f67595:1917f4caf2364e6d9b1507326a85ead6
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:-1 tvg-id="TapSports" tvg-name="Tap Sports" group-title="Philippine Channels",Tap Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7e35a07e2c12822316c0dc4873903f:eabd2d95c89e42f2b0b0b40ce4179ea0
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 #EXTINF:-1 tvg-id="TrueFMTV" tvg-name="True FM TV" group-title="Philippine Channels",True FM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40d8bb2a46ffd03540e0c6210ece57ce:0559c95496d44fadb94105b9176c3579
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/truefm_tv.mpd
 
 #EXTINF:-1 tvg-id="TVNMoviesPinoy" tvg-name="tvN Movies Pinoy" group-title="Philippine Channels",tvN Movies Pinoy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3471b2464b5c7b033a03bb8307d9fa35:2e53f8d8a5e94bca8f9a1e16ce67df33
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #EXTINF:-1 tvg-id="UAAPVarsity" tvg-name="UAAP Varsity Channel" group-title="Philippine Channels",UAAP Varsity Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e0f50a12f36599a55073868f814e81e:95588338ee37423e99358a6d431324b9
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 #EXTINF:-1 tvg-id="VivaCinema" tvg-name="Viva Cinema" group-title="Philippine Channels",Viva Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd6688b8b44e96201e753224adfc8fb:07aa813bf2c147748046edd930f7736e
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/viva_sd.mpd
