@@ -117,30 +117,45 @@ https://lb.iptvnetwork.net/ls28/10109/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/BBC_Four_%282021%29.svg/revision/latest?cb=20230531112726",BBC 4
 https://lb.iptvnetwork.net/ls28/10110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CityTV.to" tvg-logo="" group-title="Canada",CityTV Toronto
+#EXTINF:-1 tvg-id="CityTV.to" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Toronto
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:acfa6946a0db1bc9117c239a4e46ce20
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ubb-lott4-web-opus.cdn.avp.telus.net/232006004235/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-#EXTINF:-1 tvg-id="CityTV.ed" tvg-logo="" group-title="Canada",CityTV Edmonton
+#EXTINF:-1 tvg-id="CityTV.ed" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Edmonton
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:ff86380313078be949e4dcb6199adce3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ubb-lott-web-opus.cdn.avp.telus.net/232006003198/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-#EXTINF:-1 tvg-id="CityTV.ca" tvg-logo="" group-title="Canada",CityTV Calgary
+#EXTINF:-1 tvg-id="CityTV.ca" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Calgary
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:5ef2662855c29a824880ba1ed5084bbc
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ubb-lott-web-opus.cdn.avp.telus.net/232006003196/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-#EXTINF:-1 tvg-id="CityTV.mo" tvg-logo="" group-title="Canada",CityTV Montreal
+#EXTINF:-1 tvg-id="CityTV.mo" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Montreal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:aa40ae64381108a45d53feb40e078f7a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ubb-lott3-web-opus.cdn.avp.telus.net/232006134230/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="Tennis Channel.de" tvg-logo="https://iptvboss.xyz/logos/USA/TennisChannel.us.png" group-title="TENNIS CHANNEL", Tennis Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
+https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" tvg-logo="https://iptvboss.xyz/logos/USA/T2TennisChannel.us.png" group-title="TENNIS CHANNEL", Tennis Channel 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.ne.../v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
