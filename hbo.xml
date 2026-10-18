@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO.hk">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.nowplayer.now.com</url>
+  </channel>
+</tv>
