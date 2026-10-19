@@ -78,6 +78,12 @@ http://200.32.231.178/NBC/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/FOX_wordmark-orange_2.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Fox
 http://200.32.231.178/Fox/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/FOX_wordmark-orange_2.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Fox UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg",CBS
 http://200.32.231.178/CBS/index.m3u8
 
