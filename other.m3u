@@ -183,44 +183,32 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="HBO",HBO US
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="HBO",HBO 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/526198daa2954295908c9e5e22523bc2/cenc.mpd
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="HBO",HBO Comedy
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/HBO_Latino_logo_%282%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="HBO",HBO Latino
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/HBO_Signature_Asia.svg/revision/latest?cb=20250505123034" group-title="HBO",HBO Signature US
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="HBO",HBO West 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/68a59a4217cb4d48baccd9cd2a4a7579/cenc.mpd
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="HBO",HBO Zone
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 6
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/AMC_logo_1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="BONUS",AMC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
-
-
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 7
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7-mux/chunks.m3u8
