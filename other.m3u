@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png",Comedy Central East
 http://200.32.231.178/comedy_central/index.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="tapsilog" tvg-logo="https://tapdmv.com/content/images/size/w1600/2025/10/sinengtagalog-art-1.jpg",Tapsilog
+http://roch.ph/bongao/bongao/167.m3u8
+
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",BBC World News
 http://200.32.231.178/BBC_World_News/index.m3u8
 
