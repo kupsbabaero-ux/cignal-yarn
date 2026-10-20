@@ -213,3 +213,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/chunks.m3u8
 #EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN 7
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7-mux/chunks.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F4y5ruVef60UsSbSDxso3AWmDb5sf2cA9gJtRpRLZdLyBemZHNXSyDE&s=10" group-title="Sports",Fubo Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
