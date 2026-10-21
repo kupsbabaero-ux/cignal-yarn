@@ -104,3 +104,10 @@ https://live.corusdigitaldev.com/group/corus-globaltv/live/6e88fae8-1329-4f12-8c
 #KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
+
+#EXTINF:-1 group-title="Lifestyle" tvg-name="Home Network Canada" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Home_Network_logo.svg/512px-Home_Network_logo.svg.png",Home Network Canada
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a038d04b7d0dd22c82ea624723b0b8e:3240f2e23952c853d4eda4f0675ee13d
+https://live.corusdigitaldev.com/group/corus-home/live/86d4b24e-db18-4813-b6d8-bb25998cacb1/corus-home.isml/.mpd
