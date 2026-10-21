@@ -53,3 +53,54 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.us" tvg-name="US: ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN 3 HD
 http://107.167.16.138/espn3/index.m3u8?token=test
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg",Sportsnet 360 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
+
+#EXTINF:-1 group-title="Global TV" tvg-name="Global BC" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Global_BC_logo_since_2022.svg/512px-Global_BC_logo_since_2022.svg.png",Global BC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4295e8fe037f399af972e480db75617a:cd7d0dc628395674b30f8f945d5fd956
+https://live.corusdigitaldev.com/group/corus-globaltv/live/418f40da-75fa-4c64-93f2-d2c5d19d6b5c/corus-globaltv.isml/.mpd
+
+#EXTINF:-1 group-title="Global TV" tvg-name="Global Calgary" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Global_BC_logo_since_2022.svg/512px-Global_BC_logo_since_2022.svg.png",Global Calgary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eca67c51b61552524fcbf30d45e2325:9d3f2a7f614022c69edb18a67b3d99ac
+https://live.corusdigitaldev.com/group/corus-globaltv/live/9322eb9d-ca29-4174-b943-433c17da2951/corus-globaltv.isml/.mpd
+
+#EXTINF:-1 group-title="Global TV" tvg-name="Global Edmonton" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Global_BC_logo_since_2022.svg/512px-Global_BC_logo_since_2022.svg.png",Global Edmonton
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de98cec5a209a29408163e3aae21304b:dd81cad852b46b755852f4e0a81bc112
+https://live.corusdigitaldev.com/group/corus-globaltv/live/a0c4fca2-8db2-4dba-a08e-f4b3ab61e1d4/corus-globaltv.isml/.mpd
+
+#EXTINF:-1 group-title="Global TV" tvg-name="Global Maritimes" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Global_BC_logo_since_2022.svg/512px-Global_BC_logo_since_2022.svg.png",Global Maritimes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eebe83a24758fe2699d61d7947199150:1237147a8fbda3910eea43f78c48a46c
+https://live.corusdigitaldev.com/group/corus-globaltv/live/606c4983-ca48-41e1-be61-70a399af2cc9/corus-globaltv.isml/.mpd
+
+#EXTINF:-1 group-title="Global TV" tvg-name="Global Toronto" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Global_Toronto_logo_since_2022.svg/512px-Global_Toronto_logo_since_2022.svg.png",Global Toronto
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e100f3be6c0e9d58e5706d1c76d4523:e6308eb95789e8dd46fe0a85a89469ab
+https://live.corusdigitaldev.com/group/corus-globaltv/live/6e88fae8-1329-4f12-8c0d-07ee434048dc/corus-globaltv.isml/.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-name="Sportsnet 360 HD" tvg-id="" tvg-logo="https://photos.newswire.ca/images/20130604_C5201_PHOTO_EN_27536.jpg",Sportsnet 360 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
