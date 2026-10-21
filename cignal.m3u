@@ -7,6 +7,12 @@ EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 #KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
 
+#EXTINF:-1 tvg-id="onesports+" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/3840px-OneSportsPlus_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",One Sports +
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+
 #EXTINF:-1 tvg-id="MYX PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Myxphlogo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",MYX PH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
