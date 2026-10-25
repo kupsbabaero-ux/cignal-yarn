@@ -5,7 +5,7 @@ EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=NssgY79TONGNMWVzcbFYFw:kmhadYRNxUydrBJIAlEA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge" tvg-id="cinemo.ph", Cinemo!
