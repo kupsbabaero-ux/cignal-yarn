@@ -604,7 +604,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ez2jwhkmke/out/v1/7
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/thnqxvegdx/out/v1/526198daa2954295908c9e5e22523bc2/cenc.mpd
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO US" tvg-logo="",https://static.wikia.nocookie.net/logopedia/images/e/ec/HBO_Comedy_2014_silver.svg/revision/latest/scale-to-width-down/250?cb=20260529161457",HBO Comedy US
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/HBO_Comedy_2014_silver.svg/revision/latest/scale-to-width-down/250?cb=20260529161457",HBO Comedy US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
