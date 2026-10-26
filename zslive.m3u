@@ -640,3 +640,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/v3mhpvm2xv/out/v1/6
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
+#EXTINF:-1 tvg-id="ABANTE NEWS" tvg-name="ABANTE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Abante_Logo.jpg?utm_source=pl.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ci",Abante News
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_abante_news/default/index.mpd
+
