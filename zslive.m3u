@@ -588,24 +588,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-id="CityTV.to" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Toronto
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:acfa6946a0db1bc9117c239a4e46ce20
-https://ubb-lott4-web-opus.cdn.avp.telus.net/232006004235/vxfmt=dp/manifest.mpd?device_profile=dashvmx
-
-#EXTINF:-1 tvg-id="CityTV.ed" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Edmonton
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:ff86380313078be949e4dcb6199adce3
-https://ubb-lott-web-opus.cdn.avp.telus.net/232006003198/vxfmt=dp/manifest.mpd?device_profile=dashvmx
-
-#EXTINF:-1 tvg-id="CityTV.ca" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Calgary
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:5ef2662855c29a824880ba1ed5084bbc
-https://ubb-lott-web-opus.cdn.avp.telus.net/232006003196/vxfmt=dp/manifest.mpd?device_profile=dashvmx
-
 #EXTINF:-1 tvg-id="tsn1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/3840px-TSN1.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canada",TSN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
