@@ -24,7 +24,7 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Pinoy_Big_Brother_Collab_3.0_title_card.jpg/250px-Pinoy_Big_Brother_Collab_3.0_title_card.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Converge" tvg-id="cinemo.ph", PBB Dining Area
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Pinoy_Big_Brother_Collab_3.0_title_card.jpg/250px-Pinoy_Big_Brother_Collab_3.0_title_card.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Converge" tvg-id="", PBB Dining Area
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
