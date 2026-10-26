@@ -594,12 +594,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="CityTV.mo" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH26jD-iYVpww/company-logo_200_200/company-logo_200_200/0/1630627907614?e=2147483647&v=beta&t=nMR2XMNLFIhW4ElhO55_M-vJjz5fy0Wrf2Y7HYBK9KQ" group-title="Canada",CityTV Montreal
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:aa40ae64381108a45d53feb40e078f7a
-https://ubb-lott3-web-opus.cdn.avp.telus.net/232006134230/vxfmt=dp/manifest.mpd?device_profile=dashvmx
-
 #EXTINF:-1 tvg-id="Tennis Channel.de" tvg-logo="https://iptvboss.xyz/logos/USA/TennisChannel.us.png" group-title="TENNIS CHANNEL", Tennis Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -623,7 +617,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ez2jwhkmke/out/v1/7
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/thnqxvegdx/out/v1/526198daa2954295908c9e5e22523bc2/cenc.mpd
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO US" tvg-logo="",https://static.wikia.nocookie.net/logopedia/images/e/ec/HBO_Comedy_2014_silver.svg/revision/latest/scale-to-width-down/250?cb=20260529161457HBO Comedy US
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO US" tvg-logo="",https://static.wikia.nocookie.net/logopedia/images/e/ec/HBO_Comedy_2014_silver.svg/revision/latest/scale-to-width-down/250?cb=20260529161457",HBO Comedy US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
