@@ -185,7 +185,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" group-title="Cignal",Tagalog Movie Channel
+#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr379xVW-amoESefG5LJGgWOcC4g1z3vMJsUz1XkdKhssqRU6n8pDDUMw&s=10" group-title="Cignal",Tagalog Movie Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -229,7 +229,7 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_a2z" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",A2Z
+#EXTINF:-1 tvg-id="cg_a2z" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/A2Z3Dlogo.png/revision/latest/scale-to-width-down/1200?cb=20201014085027" group-title="Cignal",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
@@ -239,37 +239,37 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Animal Planet
+#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/3840px-Animal_Planet_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_spotvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",SPOTV HD
+#EXTINF:-1 tvg-id="cg_spotvhd" tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="Cignal",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ptv4_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",PTV 4
+#EXTINF:-1 tvg-id="cg_ptv4_sd" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/3840px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",PTV 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ptv4_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Premier Sports HD
+#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_rockextreme" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Rock Extreme
+#EXTINF:-1 tvg-id="dr_rockextreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rock_Extreme_White_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockextreme/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_tapsports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Tap Sports
+#EXTINF:-1 tvg-id="dr_tapsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Tap Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6d4f8912c734b608e159f3a7d5c2046:ec647e6c500235352a8df03c518e9b23
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapsports/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",BBC Earth HD
+#EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
@@ -279,12 +279,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Rock Entertainment
+#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/6a3a08156de84f74aa21f0bb_ROCK%20ENT%20thumbnail.webp" group-title="Cignal",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Discovery Channel
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://images.seeklogo.com/logo-png/24/1/discovery-channel-logo-png_seeklogo-241377.png" group-title="Cignal",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
@@ -294,17 +294,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_cctv4/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",PBA Rush HD
+#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="Cignal",PBA Rush HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Arirang
+#EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://cdn.theorg.com/78660ec3-1157-4f38-9256-81a539d3d3ca_medium.jpg" group-title="Cignal",Arirang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
 https://ucdn.mediaquest.com.ph/bpk-tv/arirang_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",KBS World
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://i.pinimg.com/736x/f4/3e/99/f43e99bcdd7d0f293815692fd5660721.jpg" group-title="Cignal",KBS World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
 https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
@@ -464,7 +464,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:-1 tvg-id="knowledge_channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADA5A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Knowledge Channel
+#EXTINF:-1 tvg-id="knowledge_channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzq3NNpKSg27tMLfENekY3r-6qWl3gN1xiXTeKWVJIJhBqU1AAKIzYeI&s=10" group-title="Cignal",Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84d2f6917b354c08a9163e5d8f2a7049:192c69ef479dd7e3fccc908d6c5dbb3a
 https://ucdn.mediaquest.com.ph/bpk-tv/knowledge_channel/default/index.mpd
