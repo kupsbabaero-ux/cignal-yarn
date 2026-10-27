@@ -713,3 +713,27 @@ https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/48fc2f9d-055e-4c0c-adab-a81b6956a20b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Super_Channel_Vault._SL500_FMpng_.png" group-title="Plex" tvg-id="",Super Channel Vault
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= 084d7edd4338ad1ee3a9f5eb1813bf6d:2663442712a0ae916b665edc6f69adfe
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/pfobwt0hjp/out/v1/ee34d2c4be154deb9551f670b04d795b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Super_Channel_Fuse._SL500_FMpng_.png" group-title="Plex" tvg-id="",Super Channel Fuse
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f93e7082b88719082cf2e1d64c2d28:2149b7faf6c8a64c105abaa8f8a5c477
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vzgmapcowu/out/v1/50b0dcb1beb4486bb9b92fe86613a940/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Super_Channel_Heart_and_Home._SL500_FMpng_.png" group-title="Plex" tvg-id="",Super Channel Heart & Home
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84ec4f4e33aefd9fc37de707a856264:fb1ea7d84fb230720d79aa8d56e21866
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h6iu9qbwfo/out/v1/bf91816b7e7e416abc936e785d023dcd/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/quest._SL500_FMpng_.png" group-title="Plex" tvg-id="",Super Channel Quest
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48d03e2d6cac5b2ec054bbb62aed26c:05c78a177543d528c37d419b455cdc5f
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zy585rr3nz/out/v1/d36aee86e04f4fd9984cec2fd992b031/cenc.mpd
