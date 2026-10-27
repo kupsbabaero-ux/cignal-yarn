@@ -134,7 +134,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
 ###https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
-#EXTINF:-1 tvg-id="hbohits.hk" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlN_ZYnGjEYldkw-isxiQ-13POAO2PmReTaggcegBzGw&s=10",HBO HD
+#EXTINF:-1 tvg-id="hbohits.hk" group-title="Movies" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png",HBO HD
 ###KODIPROP:inputstream.adaptive.manifest_type=mpd
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=
@@ -150,37 +150,37 @@ https://play-drm.aliiptv.com/live/HBOHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3Q
 https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
 ##https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
-#EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="Cignal",Bilyonaryoch
+#EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://yt3.googleusercontent.com/E7F7uZwEdKn_hdJSoOSsoPAQVvuILUQ0-37kS8MOVlH53wWYqg-FtQC2JwRRMawSvgPNcIzggA=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal",Bilyonaryoch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
 https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 
-#EXTINF:-1 tvg-id="cnn_rptv_prod_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" group-title="Cignal",RPTV
+#EXTINF:-1 tvg-id="cnn_rptv_prod_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",RPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=1980" group-title="Cignal",Hits Now
+#EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://www.hitsnow.tv/assets/hits-now-logo-white.png" group-title="Cignal",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvmaria_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-16x9.jpg?width=1980" group-title="Cignal",TV Maria
+#EXTINF:-1 tvg-id="tvmaria_prd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="lotusmacau_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-16x9.jpg?width=1980" group-title="Cignal",Lotus Macau
+#EXTINF:-1 tvg-id="lotusmacau_prd" tvg-logo="https://app.ksmctv.com/Content/MCTV/Image/Channel/10-Lotus_TV.png" group-title="Cignal",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
 https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" group-title="Cignal",TVN Movie
+#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kb_ecZMuo0MqrOyWROtFl2OoyFrJqgRpd3_qP5TKpCB3Y=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal",TVN Movie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tvnpre" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" group-title="Cignal",TVN Premier
+#EXTINF:-1 tvg-id="cg_tvnpre" tvg-logo="https://yt3.googleusercontent.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
@@ -188,14 +188,15 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 #EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" group-title="Cignal",Tagalog Movie Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_tagalogmovie/default/index.mpd
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55
 
-#EXTINF:-1 tvg-id="kapatid_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" group-title="Cignal",Kapatid
+#EXTINF:-1 tvg-id="kapatid_hd" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c3/TV5_Kapatid_Logo_2021.png/revision/latest/scale-to-width-down/1200?cb=20250905141443" group-title="Cignal",Kapatid Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
 https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="globaltrekker" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/09A671F2-39E7-47AF-BC9B-53AB53BC7FD0/0-16x9.jpg?width=1980" group-title="Cignal",Global Trekker
+#EXTINF:-1 tvg-id="globaltrekker" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@1971_20211222120307.jpg" group-title="Cignal",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
@@ -205,7 +206,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 
-#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="Cignal",NBA TV
+#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="Cignal",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
@@ -308,62 +309,62 @@ https://ucdn.mediaquest.com.ph/bpk-tv/arirang_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
 https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
 
-#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",One News HD
+#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/OneNewsPH_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",One News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="kix_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",KIX HD
+#EXTINF:-1 tvg-id="kix_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",KIX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
 https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_lifetime" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Lifetime
+#EXTINF:-1 tvg-id="dr_lifetime" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/3840px-Logo_Lifetime_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 
-#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",BBC World News
+#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
 https://ucdn.mediaquest.com.ph/bpk-tv/bbcworld_news_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",HGTV HD
+#EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
 https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",UAAP Varsity Channel
+#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Uaapvc2021.png/revision/latest?cb=20220325050702" group-title="Cignal",UAAP Varsity Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="travel_channel_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Travel Channel
+#EXTINF:-1 tvg-id="travel_channel_sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Travel_Channel_-_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
 https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Premier Sports 2 HD
+#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432" group-title="Cignal",Premier Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
 https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Hits HD
+#EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest?cb=20240506054820" group-title="Cignal",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_aljazeera" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9284-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Al Jazeera
+#EXTINF:-1 tvg-id="dr_aljazeera" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/1280px-Al_Jazeera_Media_Network_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
-#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",One PH
+#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/OnePHCignal.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",One PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
 https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Food Network HD
+#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
@@ -443,7 +444,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
 https://ucdn.mediaquest.com.ph/bpk-tv/france24/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits_movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53YeIkIWofz7aKkRHB6klgebyKYGx4CCWICUSwVGuQe67ZHoPmLpYHr4f&s=10" group-title="Cignal",Hits Movies
+#EXTINF:-1 tvg-id="hits_movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Cignal",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c9e7328b614d059f247a6c3e5d1048:13ef5feae7c84eb06bcc655a225fb01d
 https://ucdn.mediaquest.com.ph/bpk-tv/hitsmovies/default/index.mpd
@@ -468,86 +469,86 @@ https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=84d2f6917b354c08a9163e5d8f2a7049:192c69ef479dd7e3fccc908d6c5dbb3a
 https://ucdn.mediaquest.com.ph/bpk-tv/knowledge_channel/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_tv5_monde" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",TV5 Monde
+#EXTINF:-1 tvg-id="dr_tv5_monde" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/3840px-Logo_TV5_Monde_-_2021.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cignal",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_nickelodeon" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Nickelodeon
+#EXTINF:-1 tvg-id="dr_nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 
-#EXTINF:-1 tvg-id="Studio_Universal" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D//0-3x1.jpg?width=1366" group-title="Cignal",Studio Universal
+#EXTINF:-1 tvg-id="Studio_Universal" tvg-logo="https://tapdmv.com/content/images/2024/10/310477891_5983598688327296_7491648384199015124_n.jpg" group-title="Cignal",Studio Universal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 1" tvg-name="Pilipinas Live 1" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 1
+#EXTINF:-1 tvg-id="Pilipinas Live 1" tvg-name="Pilipinas Live 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f8c2915d644e70b2189a3c6d7f2045:fb199597a99e601c9bc8767a1b20312b
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi1/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 2" tvg-name="Pilipinas Live 2" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 2
+#EXTINF:-1 tvg-id="Pilipinas Live 2" tvg-name="Pilipinas Live 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5a8f3917d424e809b166f3c2a7d9045:6a7f2a17bad0a84674108234403d5fa0
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 3" tvg-name="Pilipinas Live 3" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 3
+#EXTINF:-1 tvg-id="Pilipinas Live 3" tvg-name="Pilipinas Live 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2f8d6917a354e60b2196d3c5a8f9042:2f593fbabad7a9f968c9fec691d59806
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi3/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 4" tvg-name="Pilipinas Live 4" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 4
+#EXTINF:-1 tvg-id="Pilipinas Live 4" tvg-name="Pilipinas Live 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9a4d6316c854b008f175d3a7e2c9048:d7e06c12d35cfd2e13d8f3d3094941a3
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi4/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 5" tvg-name="Pilipinas Live 5" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 5
+#EXTINF:-1 tvg-id="Pilipinas Live 5" tvg-name="Pilipinas Live 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4f7c8219d624e30a9156c3a5d7f2048:60391d7d3bb726a4a95e66c4c0af219d
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi5/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 6" tvg-name="Pilipinas Live 6" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 6
+#EXTINF:-1 tvg-id="Pilipinas Live 6" tvg-name="Pilipinas Live 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 6
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d8a6915c724b609e146a7f3c2d8049:20b4724a4d406c3a89c7b0d7084626a0
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi6/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 7" tvg-name="Pilipinas Live 7" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 7
+#EXTINF:-1 tvg-id="Pilipinas Live 7" tvg-name="Pilipinas Live 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 7
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a7e9c316d424b80a2183f5c7d9e2046:746ca1548780fc4d8cc9fc948403a3da
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 8" tvg-name="Pilipinas Live 8" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 8
+#EXTINF:-1 tvg-id="Pilipinas Live 8" tvg-name="Pilipinas Live 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6c9a4218e534f099b167c3a5d2e8048:980ec0896ae1ba03f46d85453798b708
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 9" tvg-name="Pilipinas Live 9" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 9
+#EXTINF:-1 tvg-id="Pilipinas Live 9" tvg-name="Pilipinas Live 9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c8e5a927d434f60b2196a3c9e5d8041:33af0fd38e463d1c747a2cb0b203c42e
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi9/default/index.mpd
 
-#EXTINF:-1 tvg-id="Pilipinas Live 10" tvg-name="Pilipinas Live 10" tvg-logo="https://i.imgur.com/Mvalt23.png" group-title="ci",Pilipinas Live 10
+#EXTINF:-1 tvg-id="Pilipinas Live 10" tvg-name="Pilipinas Live 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Pilipinas_Live.svg/revision/latest/scale-to-width-down/284?cb=20260825173328" group-title="ci",Pilipinas Live 10
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -622,7 +623,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI999Tz8zdAaFrOOCRk2Lu0POSHdzAiCCCUerd58uhg8BHl7GeE5sgjos&s=10",HBO 2
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO US" tvg-logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
