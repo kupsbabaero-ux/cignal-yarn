@@ -10,6 +10,42 @@ https://www.youtube.com/watch?v=31st1dHiVyQ&pp=ygUVa2FwYW1pbHlhIG9ubGluZSBsaXZl
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0P_Ui0-Ox4hiPWu83392s4w2m5IK6kM0Ynt6GBiouX3AvTiekHeVThRSHTMFi7NCr4mEHYK3=s900-c-k-c0x00ffffff-no-rj" group-title="Converge" tvg-id="", Kapatid Channel Live
 https://www.youtube.com/watch?v=IlpDaDHmtUM&pp=ygUFPWxpdmU%3D
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqItsnfBlh-Y6XZ2VN8-G2ChLv16VJJEY5Ph716p9QVYTKFE4AoDI0wn8n&s=10" group-title="" tvg-id="", Sportsnet 360
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest/scale-to-width-down/1200?cb=20140712174845" group-title="" tvg-id="", Bein Sports 1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeIN_Sports_2_2014.png/revision/latest?cb=20230616100740" group-title="" tvg-id="", Bein Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="", Bein Sports 3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31LvbylxavvEaDORs85682YXEl8f-Z9To1Dcm_LQA2g&s" group-title="" tvg-id="", Abu Dhabi Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31LvbylxavvEaDORs85682YXEl8f-Z9To1Dcm_LQA2g&s" group-title="" tvg-id="", Abu Dhabi Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Converge" tvg-id="", Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
