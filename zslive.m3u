@@ -685,7 +685,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi9/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 
-#EXTINF:-1 group-title="LOCAL" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
+#EXTINF:-1 group-title="LOCAL" tvg-id="" tvg-logo="https://aphrodite.gmanetwork.com/international/articles/original/Main_Image33_0105_-20230105194831.jpg",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
