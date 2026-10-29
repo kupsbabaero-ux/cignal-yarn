@@ -1,6 +1,9 @@
 #EXTM3U
 EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1280px-One_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Converge" tvg-id="", One Sports Online Live
+https://www.youtube.com/watch?v=OTSly7Cesjc
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7d/20260529140532%21Kapamilya_Online_Live_Logo_2020.svg" group-title="Converge" tvg-id="", Kapamilya Online Live
 https://www.youtube.com/watch?v=31st1dHiVyQ&pp=ygUVa2FwYW1pbHlhIG9ubGluZSBsaXZl
 
