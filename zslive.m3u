@@ -7,7 +7,7 @@ EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0P_Ui0-Ox4hiPWu83392s4w2m5IK6kM0Ynt6GBiouX3AvTiekHeVThRSHTMFi7NCr4mEHYK3=s900-c-k-c0x00ffffff-no-rj" group-title="Converge" tvg-id="", Kapatid Channel Live
 
-#EXTINF:-1 tvg-id="" tvg-name="RJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TAP_Silog_logo.png/revision/latest?cb=20260517102141" group-title="Local",TSN: The Ocho
+#EXTINF:-1 tvg-id="" tvg-name="RJ TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/NMEFCHPD2IZZUFW2QN34Y62HSA.jpg" group-title="Local",TSN: The Ocho
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
