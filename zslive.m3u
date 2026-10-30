@@ -11,6 +11,15 @@ EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
+#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/russel/images/6/6a/TAP_TV_Logo_2020.png/revision/latest/scale-to-width-down/1200?cb=20250707140704" group-title="Converge", Tap TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TAP_Edge-1_logo.png/revision/latest?cb=20210901164013" group-title="Converge", Tap Edge
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge" tvg-id="cinemo.ph", Cinemo! PH
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/gma_logo_2025.png" group-title="Converge", GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
