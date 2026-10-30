@@ -2,7 +2,7 @@
 EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
 #EXTINF:-1 tvg-id="" tvg-name="PH: AliwKo" tvg-logo="https://iyadtv.pages.dev/images/aliwko.png" group-title="",AliwKo
-https://1nox1-adobo.hf.space/arayko.m3u8
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64d4ee537b323f6abbd19e59.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=sbTf7sJd9dRQKZXsuFGo&auto=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_g7xTw6Qckb9OqoL1WKT-Q7lSecjZBiaD3NO5uPqXQ&s=10" group-title="" tvg-id="", PVL Online Live
 
