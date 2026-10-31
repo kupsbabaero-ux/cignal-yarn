@@ -897,8 +897,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ABS-CBN_News_Channel_%282015%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="",ANC PH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
-https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:8c6c920cf3f7df2087b0ae1a4a8c6058
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/DZMM_TeleRadyo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="",DZMMTeleradyo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
