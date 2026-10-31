@@ -1,9 +1,6 @@
 #EXTM3U
 EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
-#EXTINF:-1 tvg-id="" tvg-name="PH: AliwKo" tvg-logo="https://iyadtv.pages.dev/images/aliwko.png" group-title="",AliwKo
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64d4ee537b323f6abbd19e59.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=sbTf7sJd9dRQKZXsuFGo&auto=0
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_g7xTw6Qckb9OqoL1WKT-Q7lSecjZBiaD3NO5uPqXQ&s=10" group-title="" tvg-id="", PVL Online Live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7d/20260529140532%21Kapamilya_Online_Live_Logo_2020.svg" group-title="Converge" tvg-id="", Kapamilya Online Live
@@ -341,7 +338,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
 ###https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-
 
 #EXTINF:-1 tvg-id="hbosigna.hk" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272",HBO Signature
 ###KODIPROP:inputstream.adaptive.manifest_type=mpd
