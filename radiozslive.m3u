@@ -9,6 +9,63 @@ http://192.53.113.120:8000/stream?type=.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
 https://stream.zeno.fm/sh37pvfd938uv
 
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-juanfm-social0.png" group-title="RAUX Channels" radio="true",RAUX - JUAN FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_JUANFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-2dayfm-social0.png" group-title="RAUX Channels" radio="true",RAUX - 2DAY FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_2DAYFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-hotfm-social0.png" group-title="RAUX Channels" radio="true",RAUX - Hot FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_HOTFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/kbayanradio-social0.png" group-title="RAUX Channels" radio="true",RAUX - KBayan Radio
+https://icdn.rauxnet.serv00.net:8910/RAUX_4UFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-jeepfm-social0.png" group-title="RAUX Channels" radio="true",RAUX - JEEP FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_JEEPFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-koolfm-social0.png" group-title="RAUX Channels" radio="true",RAUX - Kool FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_KOOLFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-baifm-social0.png" group-title="RAUX Channels" radio="true",RAUX - Bai FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_BAIFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-lyte-social0.png" group-title="RAUX Channels" radio="true",RAUX - Lyte FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_LYTEFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-lytetunes-social0.png" group-title="RAUX Channels" radio="true",RAUX - Lyte Tunes
+https://icdn.rauxnet.serv00.net:8910/RAUX_LYTETUNES
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-htz-social0.png" group-title="RAUX Channels" radio="true",RAUX - HTZ FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_HTZFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/noufm-social0.png" group-title="RAUX Channels" radio="true",RAUX - NOU FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_NOUFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-kiix-social0.png" group-title="RAUX Channels" radio="true",RAUX - KIIX FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_KIIXFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-mixx-social0.png" group-title="RAUX Channels" radio="true",RAUX - MIXX FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_MIXXFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/muxten-social0.png" group-title="RAUX Channels" radio="true",RAUX - Ten FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_TENFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-gold-social0.png" group-title="RAUX Channels" radio="true",RAUX - Gold FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_GOLDFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-club-social0.png" group-title="RAUX Channels" radio="true",RAUX - Club FM
+https://icdn.rauxnet.serv00.net:8910/RAUX_CLUBFM
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-pwr-social0.png" group-title="RAUX Channels" radio="true",RAUX - PWR
+https://icdn.rauxnet.serv00.net:8910/RAUX_PWR
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-dbeat-social0.png" group-title="RAUX Channels" radio="true",RAUX - The Beat
+https://icdn.rauxnet.serv00.net:8910/RAUX_THEBEAT
+
+#EXTINF:-1 tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/raux-originals/raudio-alt-social0.png" group-title="RAUX Channels" radio="true",RAUX - ALT
+https://icdn.rauxnet.serv00.net:8910/RAUX_ALT
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="Ph Live Radio",90.7 Love Radio
 https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
 
