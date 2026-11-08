@@ -11,6 +11,11 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_abante_news/default/index.mpd
 
+#EXTINF:-1 tvg-id="NBC Sports Bay Area.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2017/03/nbc-sports-bay-area-780x440.jpg" group-title="" , NBC Sports Bay Area
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(csnbay)/master.mpd
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/33/1/abc-australia-logo-png_seeklogo-336872.png" group-title="" tvg-id="", ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
