@@ -681,7 +681,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://img.iwanttfc.com/images/master/PBBCOLLAB3DININGAREA_LIVELANDSCAPE_1920X1080_V1_20261023005259.jpg" group-title="Converge" tvg-id="cinemo.ph", PBB Dining Area
+#EXTINF:-1 tvg-logo="https://img.iwanttfc.com/images/master/PBBCOLLAB3DININGAREA_LIVELANDSCAPE_1920X1080_V1_20261023005259.jpg" group-title="Converge" tvg-id="", PBB Dining Area
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=737377f8bde649ee9eb563613b42395e:a3b3784c19979b7bdd9680b6f32a786c
