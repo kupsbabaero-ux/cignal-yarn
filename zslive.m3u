@@ -11,6 +11,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_abante_news/default/index.mpd
 
+#EXTINF:-1 tvg-id="ABANTE NEWS" tvg-name="ABANTE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ci",DAZN Ringside
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
+
 #EXTINF:-1 tvg-id="gameshow" tvg-name="ABANTE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Game_Show_Network_2018.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ci",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
