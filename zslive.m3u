@@ -23,6 +23,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3akahygf9y/out/v1
 #KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
 https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ci",AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/fgrjsgdqg3/out/v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
+
 #EXTINF:-1 tvg-id="gameshow" tvg-name="ABANTE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Game_Show_Network_2018.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ci",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
