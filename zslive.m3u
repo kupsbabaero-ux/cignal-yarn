@@ -13,7 +13,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 ##https://ucdn.mediaquest.com.ph/bpk-tv/cg_abante_news/default/index.mpd
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vevo" tvg-name="ABANTE NEWS" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/logo-img-02.svg" group-title="ci",Vevo 
+#EXTINF:-1 tvg-id="vevo" tvg-name="ABANTE NEWS" tvg-logo="https://www.nicepng.com/png/full/133-1336301_free-tumblr-logo-transparent-background-vevo-logo-white.png" group-title="ci",Vevo 
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo=https://yt3.googleusercontent.com/roaWDy65Nql1AE6UwnxnjT_W1JEe-p_vxXitHruarjiB9uAMH4Egl-LCW1pX0qeGhpymPiu3heA=s900-c-k-c0x00ffffff-no-rj", Aniplus
