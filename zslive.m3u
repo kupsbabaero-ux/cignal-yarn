@@ -16,6 +16,9 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 #EXTINF:-1 tvg-id="vevo" tvg-name="ABANTE NEWS" tvg-logo="https://www.nicepng.com/png/full/133-1336301_free-tumblr-logo-transparent-background-vevo-logo-white.png" group-title="ci",Vevo 
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vevo" tvg-name="ABANTE NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/960px-Pop_UK_TV_Logo_%282015%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20230513000849" group-title="ci",Pop 
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo=https://yt3.googleusercontent.com/roaWDy65Nql1AE6UwnxnjT_W1JEe-p_vxXitHruarjiB9uAMH4Egl-LCW1pX0qeGhpymPiu3heA=s900-c-k-c0x00ffffff-no-rj", Aniplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
