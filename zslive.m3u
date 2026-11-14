@@ -1078,12 +1078,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_3840,h_1518,g_auto/dpr_auto/f_auto/q_auto:eco/v1/the-first-48-pod-logo-white_tmc1ev?_a=BAVMn6E80" group-title="" tvg-id="", The First 48 by A&E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6fce39921a1be45825f61e9f36c43fb:328b8b339935ddea515f3a3be8b23b1f
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4gbpkhjfhe/out/v1/f2f98191481644f3aef81242d969b283/cenc.mpd
-
 #EXTINF:-1 tvg-id"lego" tvg-name="lego" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Abante_Logo.jpg?utm_source=pl.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ci",The Lego Channel
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 
