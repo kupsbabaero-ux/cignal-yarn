@@ -51,6 +51,12 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/jflyzl
 #KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/fgrjsgdqg3/out/v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="", AMC +
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ABS-CBN_News_Channel_%282015%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="",ANC Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:8c6c920cf3f7df2087b0ae1a4a8c6058
@@ -91,10 +97,40 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee854c4e5488a85e405c5130c80f" group-title="" tvg-id="", BBC America
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eebffffd7464b681ba44d0061859742f:0dc1888c2b282fb8ba187b3dbd2e5e88
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/3f8u0qqhv/d7472321-e145-48f3-a9fa-1a63a8e7df58.png?tr=w-600" group-title="" tvg-id="", BBC Antiques Roadshow UK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=405cc8b0d75ba2a688e32d55dc27090d:e4efefaff329d1a37f62fb788dbf6aea
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i9etmdofma/out/v1/76f2684bdf9b4b07a1ebff07e75404cb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BBC_Comedy.svg/revision/latest?cb=20190305100646" group-title="" tvg-id="", BBC Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=731c0b845abb82bee3ec0310e37b67bb:6e54152cc90c8d0957ee79022365103d
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qnwcpfyjzl/out/v1/22a721ceed33455f82c0bbe0951076f1/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/52/BBC_Drama_2019.svg/revision/latest/scale-to-width-down/3261?cb=20250901095348" group-title="" tvg-id="", BBC Drama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f4ef7e05bd2b3d6aa7de90bc01957d1:710c053cb54c19bdf100bc7691a48363
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mmni0ujjvx/out/v1/e246be8fc6ac4654bb72d6a793d44574/cenc.mpd
+
 #EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Impossible_titles.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="", BBC Impossible
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4ddb1431b0ee8e0b909b13f9306fbab:43102168b71409a7edc22c464b191251
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tq91oa1zlc/out/v1/5dfc7cc0ec3a470e93c4b31df66a62bf/cenc.mpd
 
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="Cignal",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -256,6 +292,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D08B8566-8303-4C43-B854-782AF2D7EB8F/3-1x1.png/900" group-title="" tvg-id="", Dateline 24/7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3efd95603988aea5e3beb04c639b277b:6f2f8e2c421eb1211e91a0222969fbf9
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/lbmpmymvqp/out/v1/024c1365140840f88bfcd39137e99cc6/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ci",DAZN Ringside
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -282,6 +324,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
 https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-turbo-uk.png" group-title="" tvg-id="", Discovery Turbo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f6e28a62eee29881a79afa724e34835:ac958c5e94542b0c9dc6eec1f6593bba
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/wnmhahkghm/out/v1/e55e7e24b11744459773076f2ef2ff1f/cenc.mpd
 
 #EXTINF:-1 tvg-id="cg_dreamworks_hd1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/DreamWorks_Channel_2.svg/revision/latest?cb=20160531154507" group-title="Cignal",DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -492,6 +540,18 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/pfobwt0hjp/
 #KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
 https://ucdn.mediaquest.com.ph/bpk-tv/ibc13_sd_new/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/600x600.webp?type=color_onBlack" group-title="" tvg-id="", ION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b08d24b0fa4b65fee721844ee216e0:f22e996f6bd18b571e3f9d25167a0526
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/evewsh19eb/out/v1/5ff67c8e84a148ac8407bbf1269b2049/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://ionplustv.com/og-image.jpg" group-title="" tvg-id="", ION Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91f1d3853bc2df08efccdd55a84ac1:34e3fc52353b5fbd70392aebc52a31ff
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pbrhcxjiou/out/v1/b7c740f86c504a168c9776e73e9cbcf4/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="",Jeepney TV (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
@@ -546,6 +606,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
 https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/MGM%2B.svg/revision/latest?cb=20230123102734" group-title="" tvg-id="", MGM Celebrates Black Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1280px-MGM%2B_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="MGM+" tvg-id="",MGM+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -572,6 +638,12 @@ https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/ind
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MGM+" tvg-id="",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/MLBLogoVectored.svg/revision/latest?cb=20260608225111" group-title="" tvg-id="", MLB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09738c977ad0335cccc46b1e401c5fb0:753798bf3898e85bc46df59e7c94f869
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/djeuespy2a/out/v1/26429339ac0c436985f84926afe2fcf4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg" group-title="MOVIE",MN+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -634,6 +706,12 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mml
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
+#EXTINF:-1 tvg-logo="https://eugesqsskkc.exactdn.com/wp-content/uploads/2024/05/NASCAR.png?strip=all&quality=90&webp=85&sharp=1" group-title="" tvg-id="", Nascar
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/33/1/nat-geo-wild-logo-png_seeklogo-333045.png" group-title="" tvg-id="", National Geographic Wild
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -686,6 +764,12 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="" tvg-id="", NHL Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cb40ffce7ac42ed8811c5f1706c6393:baaf2f1aea9ef33c27c67444208a1cd3
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/had92wa4sw/out/v1/4f754d04b2e84059a1f473a76416dfd3/cenc.mpd
 
 #EXTINF:-1 tvg-id="dr_nickjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Nick_Jr._logo_2023.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -866,6 +950,24 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-us.png" group-title="" tvg-id="", Screenpix
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=537cc6cb07fe4bcc63d06c3018d5e35c:7420e0237883a05e4d2ddafaf114b050
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-action-us.png" group-title="" tvg-id="", Screenpix Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a340ce5a22ce1a5f54c2c5dd18e8fe7d:afa091d637e61d585ad036fd4b8a3235
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-westerns-us.png" group-title="" tvg-id="", Screenpix Westerns
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=429d2a8c13dc9a40a13ef8d4e2325209:631892e5f5451b5596528e194c44d95b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Converge", Solarflix
 http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -885,11 +987,23 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RvxgkR9uatH7ng7qk7uAQhj6zxHZWf-PqiRnckwPlhjZJa5dapO-Dfo&s=10" group-title="" tvg-id="", Stories by AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a72970a2e4b33430d372231012324cbc:eee162bc3e35977c9d713d3e8610d1b9
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/t1xzqx2gr2/out/v1/f7b34731b785417083e875597fd87d71/cenc.mpd
+
 #EXTINF:-1 tvg-id="Studio_Universal" tvg-logo="https://tapdmv.com/content/images/2024/10/310477891_5983598688327296_7491648384199015124_n.jpg" group-title="Cignal",Studio Universal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" group-title="" tvg-id="", Sundance TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60da54dad6804a8895d80f79bd2ef324:528d95c9ca726d0602c28f9366a08069
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Super_Channel_Fuse._SL500_FMpng_.png" group-title="Plex" tvg-id="",Super Channel Fuse
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -938,6 +1052,12 @@ http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v8
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://103.196.177.230/alj/alj/167.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="" tvg-id="", Telemundo Puerto Rico
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c9d061d8c53eabb568552fb1cbed76:d351e48c66868613fef1a1ba285e6f15
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/hdg9zzoicd/out/v1/bb0114bd5fe148c6ad62d2890310d357/cenc.mpd
+
 #EXTINF:-1 tvg-id="Tennis Channel.de" tvg-logo="https://iptvboss.xyz/logos/USA/TennisChannel.us.png" group-title="TENNIS CHANNEL", Tennis Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -958,8 +1078,20 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_3840,h_1518,g_auto/dpr_auto/f_auto/q_auto:eco/v1/the-first-48-pod-logo-white_tmc1ev?_a=BAVMn6E80" group-title="" tvg-id="", The First 48 by A&E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6fce39921a1be45825f61e9f36c43fb:328b8b339935ddea515f3a3be8b23b1f
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4gbpkhjfhe/out/v1/f2f98191481644f3aef81242d969b283/cenc.mpd
+
 #EXTINF:-1 tvg-id"lego" tvg-name="lego" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Abante_Logo.jpg?utm_source=pl.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ci",The Lego Channel
 https://dh18i7whff86v.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/2/2e/The_Walking_Dead_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="", The Walking Dead Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a71b1ce9eb116cd7bd98a946d71109:08b8b340baeebca12ef50a52c6ec1d1d
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
 
 #EXTINF:-1 tvg-id="cg_thrill_sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Thrill_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
