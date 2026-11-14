@@ -402,7 +402,7 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/gma_logo_2025.png" group-title="Converge", GMA 7 (Converge)
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/gma_logo_2025.png" group-title="Converge", GMA 7 (Converge)
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 group-title="LOCAL" tvg-id="" tvg-logo="https://p1.hiclipart.com/preview/960/979/640/tv-channel-icons-pack-gma-life-tv-color-png-icon.jpg" ,GMA Life TV
