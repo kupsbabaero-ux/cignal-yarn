@@ -292,6 +292,16 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
+#EXTINF:-1 tvg-id="cwgold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/CW_Forever_channel_icon_%28Halloween%29_%282024%29.jpg/revision/latest/scale-to-width-down/250?cb=20251101124616" group-title="Cignal",CW Forever
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71ac47012e2f82b3f8255032a2e87df9:4ca9194813a92f471e57c79fabc515cc
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/mpoubgq5yi/out/v1/0ae8c7c3b38d4eae87ef1e2a65a071f5/cenc.mpd?
+
+#EXTINF:-1 tvg-id="cwgold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CW_Gold_%28The_CW_Channels_feature_icon%29.jpg/revision/latest/scale-to-width-down/250?cb=20250802193103" group-title="Cignal",CW Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c890729e587fce38589341467f7cbeee:93ca1da203b83cb3d51eb7c5a428b2c8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/yinahsqjwt/out/v1/afb21762b26b4ed6b2c1a7361b7c4fe1/cenc.mpd?
+
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D08B8566-8303-4C43-B854-782AF2D7EB8F/3-1x1.png/900" group-title="" tvg-id="", Dateline 24/7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
