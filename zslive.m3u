@@ -19,6 +19,12 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 #KODIPROP:inputstream.adaptive.license_key=b8c98095d1e44569a725ef30fb8682c8:0e1dd4e7374f17a2f44b695227e5843b
 https://absp-live.akamaized.net/dash/live/2099522/abc-au/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/BBC_First_Foxtel_logo.svg/1280px-BBC_First_Foxtel_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="" tvg-id="", BBC First
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yj5xJkeTn-PPLmQaweAG_a8gHkIbdiR0qQQVwhvsULz7Ogr4xj-dTWPTGChhN9e1PGwbYZBIfA=s900-c-k-c0x00ffffff-no-rj" group-title="" tvg-id="", Abu Dhabi Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
