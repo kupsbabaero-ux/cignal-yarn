@@ -901,6 +901,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://img.iwanttfc.com/images/master/1_THUMBNAIL_1920x1080_20261123015347.png?t=l&hs=ra&pq=3&w=360" group-title="" tvg-id="", PBB Collab 3.0 EXTRA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b75e0a8315d0499b834c00a3d5b91935:39876c3c4f32a11dee56078febbb67dd
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollaballaccesslivestream/manifest.mpd?hdntl=exp=1795501794~acl=%2f*~id=5fe6347a-2c8b-4f3d-beb6-93353d406ffa~data=hdntl~hmac=1dc8835e2e8ce7a13ac660685dfc3d98b0440be1a953fccd47a44a32f3c3eead&app_bundle=&app_name=iwant&app_store_url=&channel_name=PBBCollab30Extra&conparid=09f9149f-acaa-42ca-a18f-5e2735f5de6a&contentType=Live&content_id=09f9149f-acaa-42ca-a18f-5e2735f5de6a&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=c08a7506-e3ef-57a6-9538-ed5c78e840d7&dnt=0&dur=50400&gdpr=0&gdpr_consent=0&genre=Reality&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=PG&sid=5fe6347a-2c8b-4f3d-beb6-93353d406ffa&title=PBBCollab30Extra&ua=AmazonAPIGateway_ksrhkmmqge&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2F09f9149f-acaa-42ca-a18f-5e2735f5de6a&us_privacy=1---&sentinel=awaked
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/PBO_PNG-og_image.svg/revision/latest/scale-to-width-down/250?cb=20251213093959" group-title="Converge", PBO (Converge)
 http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
