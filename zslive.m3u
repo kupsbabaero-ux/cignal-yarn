@@ -624,6 +624,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/evewsh19eb/
 #KODIPROP:inputstream.adaptive.license_key=cc91f1d3853bc2df08efccdd55a84ac1:34e3fc52353b5fbd70392aebc52a31ff
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pbrhcxjiou/out/v1/b7c740f86c504a168c9776e73e9cbcf4/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/It%27s_Showtime_%28Philippine_TV_program%29_title_card.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="", It's Showtime Livestream
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cdb78338a104ed594175a49532c823d:9c7810c46873053be29d26bf6f753664
+https://abslive.akamaized.net/dash/live/2099522/itsshowtime/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="" tvg-id="",Jeepney TV (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
@@ -728,6 +734,12 @@ https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/ind
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MGM+" tvg-id="",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnresJprGXs2xKGg6EHUDWZIIB4TgwyedavwvR4yMVT5MwdzJBAYAmZ-0&s=10" group-title="" tvg-id="", Miss Universe 2026
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/MLBLogoVectored.svg/revision/latest?cb=20260608225111" group-title="" tvg-id="", MLB
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
